@@ -131,7 +131,7 @@ function validateConfig(config: ScraperConfig): void {
 async function main() {
 
     const config: ScraperConfig = {
-        companyName: 'pipedrive',
+        companyName: 'pipedrive', // after pipedrive try with paypal
         startDate: new Date('2023-01-01'),  // try this by running npm start
         endDate: new Date('2025-12-31'),
         source: 'CAPTERRA',

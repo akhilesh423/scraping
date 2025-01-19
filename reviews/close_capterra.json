@@ -1,0 +1,1127 @@
+[
+  {
+    "reviewerName": "Joshua",
+    "title": "It's like magic",
+    "description": "Comments:We have a startup focused in ticket sales for events in Mexico. We were looking for in-depth data of our salesmen and to make easier for them to keep track of their clients by client type. We used a CRM (highrise), but the data it gave us was no longer enough to know more about whether the size and type of clients - and opportunities - our sales team were generating was the right kind given our current strategy.We initially requested a trial by importing a subset of random data of our former CRM but we felt this was not useful, because not all of those imported leads were relevant to us at the moment. When support from close.io gave us the option to extend our trial period, we deleted all of the previous leads and instead started adding new leads into the platform. That's when we notice the main strong point of close.io: by adding our first lead's email, within seconds we had a full history of each email we exchanged in the past. The desktop app works like a charm. Also, when you have a small sales team like ours, it's great to add a lead and check if one of your teammates already make a contact. Finally, it's amazing how easy is to categorize leads, we even use it to keep track of investors, allies and competitors. The call feature is also a huge breath of fresh air into a follow-up process. The fact you can make calls straight from the app, that those calls get recorded and also get tracked into a lead's history ensures automatic track of almost every kind of interaction with a lead. In our case, although we tried it and it worked great, we won't make use of it because our small office space forces us to do calls by getting outside the office, and given our internet connection is not that solid we will keep making calls the way we are right now and evaluate a full switch later.In a few words: if you have a small sales team and you want to make them doing more closing and less data insertion into follow-up tools, consider switching to close.io",
+    "date": "10 years ago",
+    "rating": 4,
+    "pros": "The email auto-tracking is by far the the tool of close.io. The fact you can create a lead and it automatically brings all of the history of emails you exchanged with them gives a lot more insight and visibility into salesman follow-up performance. Also, the call feature; if you have a strong internet connection, and especially if you're a startup and your salespeople is constantly on the run. Support also responds very quickly to feedback, which made a lot easier the switch from our former CRM.",
+    "cons": "For our business, it´s very important to do bulk imports. However, the tool does not let you to opt out of duplicating leads, which makes us take longer to \"curate\" each file we want to import."
+  },
+  {
+    "reviewerName": "Tony",
+    "title": "Close.com Can Make Your Business Run Efficiently and Problem Free",
+    "description": "Comments:We had another CRM system that was a lot more expensive and not very easy to use. Close.com is just a pure pleasure to work with and the entire team here is thrilled with it.",
+    "date": "3 years ago",
+    "rating": 5,
+    "pros": "Platform is very easy to use and all employees just loved it the minute they tried it out.  We all wonder why we didn't get this sooner.  Close.com is also fun to use and everything is at your fingertips. Program works fast and makes the customer ticket system very efficient.",
+    "cons": "No cons at all. I mean it.  This program Rocks:)"
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Most your organization will ask, \"why aren't we using Salesforce?\"",
+    "description": "Comments:Skip it.",
+    "date": "6 years ago",
+    "rating": 3,
+    "pros": "Great if you have the patience and developments resources to help you customize everything. API is good, but for most non-enterprise organizations, who has time to be messing with APIs? Built in VoIP is a nice feature, but do your math and make sure the price is worth it.",
+    "cons": "- Searching for data is near impossible. Can't filter for anything logically without getting into \"raw queries,\" so you better be half an engineer if you want to search for anything.\n- Reporting is a joke. The reporting tools might as well not exist. Be prepared to ask developers to leverage the API and sync into some other tool.\n- No matter what they may sell you, it's a CRM best used with small sales teams. It's not for account management or companies that expect anyone without an engineering degree to figure out how to analyze the data inside of it."
+  },
+  {
+    "reviewerName": "Alexander",
+    "title": "Close is great for startup sales but lacks some simple features",
+    "description": "Comments:Overall it's been a good but not great experience. The basics are covered for a CRM but some what seems like basic features are still missing.",
+    "date": "5 years ago",
+    "rating": 4,
+    "pros": "I love the automated email sequences to help with my outbound prospecting efforts. This enables me to 'set it and forget it\" to ensure proper follow up is happening with prospects.",
+    "cons": "I don't like that you can't map specific email chains to specific opportunities. Furthermore,  you can't upload files which is a real drawback and support suggested I just link to google shared drives."
+  },
+  {
+    "reviewerName": "Anna",
+    "title": "Close.io for therapists, tutors and coaches",
+    "description": "Comments:I have been looking at various CRM's for my private practice. I provide online therapy for speech, language and learning. Close.io impressed me with its rich features and customizations. I loved the fact that Close.io works perfectly for one person. So many of the other CRMs are for sales teams.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "Everything functioned flawlessly on the first try. I was able to set it up to use my domain name email. I imported all my contacts from Gmail. I could add customizations that would make it easy to keep track of my clients. \n\nThe search function knocked my socks off! I couldn't remember the name of a certain funding agency. Just by entering the client's name, it gave me the funding agency.\n\nClose.io was created for people trying to make an initial sale. I keep my clients three or four years and they often need a break from therapy for a few months. It was easy for me to give clients a status, such as \"paused\" or \"completed goals\".\n\nI was able to collect leads from my Wordpress website using Planso Forms. These create a new lead in Close.io.\n\nThe options to add a phone line and bulk email surprised me. I haven't seen this in any other CRMs. I can create email templates and send out messages to groups of people using my domain name email. The messages are plain text, which is just right for smart phones. \n\nI tried out the phone function on my computer. I have been using Magic Jack, and getting complaints from clients about MJ. The Close.io phone line is from Twilio and is much clearer. By installing the app on my phone, I can have a second phone number on my cell and I don't have to give clients my personal number.",
+    "cons": "I'm in Canada. I wish the price wasn't so high, especially with the exchange rate.  \n\nAs an online therapy provider, I also have to pay for a telepractice platform and an online scheduler. If Close.io offered integration with Verishow and Accuity Scheduling, they would be able to offer a complete virtual office for online therapists, tutors, and coaches."
+  },
+  {
+    "reviewerName": "Pruthvi",
+    "title": "Great CRM",
+    "description": "",
+    "date": "2 years ago",
+    "rating": 4,
+    "pros": "Integrates into other platforms easily. Great to use",
+    "cons": "Not so user-friendly. UI & UX could be better"
+  },
+  {
+    "reviewerName": "Nick",
+    "title": "A modern sales platform optimized for outreach",
+    "description": "Comments:While Close.io is a CRM by definition, I consider it more of a sales platform. I consider it as a platform because of it's flexible and rich API that allows you to customize any component. Close.io is a fantastic tool that teams should use for interacting with their customers. With built-in call and email integration, Close.io is designed for salesperson outreach. It eliminates unnecessary data entry, and is the perfect companion for any sales team using the \"Predictable Revenue\" (A book by Aaron Ross) approach to sales. All activity (calls, emails, lead status changes) is automatically tracked, leaving the sales rep to just write contextual notes for each activity.The automatic tracking of activity leads sales managers to easily determine how much activity yields certain sales results. Those answers are the holy grail when it comes to building a scalable sales process.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "- Built-in call and email integration.\n- Flexible and powerful API w/ great documentation.\n- Dynamic lead lists (called \"Smart Views\") powered through search.\n- Native Mac and WIndows apps.\n- Responsive support team.\n- Custom fields",
+    "cons": "- Costly for budget conscious teams. (But not less expensive than Salesforce and like platforms)\n- No native mobile apps yet. (Not recommended for outside sales teams)"
+  },
+  {
+    "reviewerName": "James",
+    "title": "Best CRM I've had the pleasure of using",
+    "description": "Comments:Close.io has been a huge help to our small B2B sales department. Before close.io we were using multiple programs to email, call, track, notate, and manage customers. It was a mess!!! Now we can do everything within the app itself. No more transferring information from one source to the other.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "The features that helped us the most:\n\n-real-time integration with gmail. We send and receive all our email through the app. Besides being more convenient it also keeps all correspondence logged in an easy to reference way. \n-recorded calls - all calls and voice-mails are automatically listed right along with notes and emails. This is incredibly useful with longer sales cycles. We are able to go back and actually hear what the customer said on the call two months ago. So much better than just notes, especially if there is every a disagreement.  \n- Support is amazing. Always very responsive and timely and walked us through our limited implementation issues, (see below). Additionally, they are always improving the app, so about the time I suggest an option I'd like to see it is already slated to be rolled out.",
+    "cons": "Not really any cons to speak of, but we had a couple issues at first:\n\n- call quality was poor. This was due to trying to use a wireless connection and after switching everyone over to wired, it went away. So while not an app problem, something to consider if you or your team work remotely.\n\n-Some merging issues when pulling lead data from our web form. Again, this was not an app problem so much as a developer problem on our end, but it was a headache for a couple days none the less."
+  },
+  {
+    "reviewerName": "Jordan",
+    "title": "Rigid structure means only certain sales processes fit (adaptations to all processes are necessary to use effectively)",
+    "description": "Comments:Overall, Close.io is a B2B CRM where each client has only a few main contacts and they all go through a specific, well-defined process, regardless of whether or not the deal is closed.It's a very expensive platform, especially if you want calling features, so keep that in mind. My two cents: you should assess how well Close.io meets your needs before deciding that this is the right CRM (vs. a different CRM or a custom CRM if you're at higher volumes). Once you decide that it's worth exploring, my recommendation is to figure out how much you'll be paying in annual costs vs. a custom CRM implementation. Close.io pretty much won't prioritize features for you, so if you need anything custom done, I recommend going somewhere else.",
+    "date": "8 years ago",
+    "rating": 4,
+    "pros": "- Easy to get started\n- Easy to import leads\n- Easy to keep track of how everyone at your organization is interacting with the client\n- Pretty simple, but effective reporting",
+    "cons": "- Expensive\n- Low quality call audio\n- Low customization\n- Rigid sales structure set-up"
+  },
+  {
+    "reviewerName": "JASON",
+    "title": "The future looks bright with Close.IO",
+    "description": "Comments:I have used Close.IO at my past company and this is the only CRM that I can endorse. When I told my team that I was going to update the current CRM tool I was met with a lot of questions and concerns. After showing the video on the Close.IO site and taking questions for about 20 mins my team was buying into the idea of changing over. I was also able to prove to them that there would be a minimum of an hour that each of them would save a day, so that peaked their interest. Then as we ramped up for the change the nervousness kicked in again, so I made sure to stage the rollout in an effort to handle all questions in a controlled manner and prepare for more users. The employees were blown away by the ease of use! And I was impressed at just how smooth it all went. Being a tech guy my learning curve is quick, but from employees in their 20's-50's we had a hugely successful transition into Close.IO.While my team is still early in the game, about 3 weeks into Close, we are seeing AMAZING results. One of my sales guys is up 50% in his personal sales! Others are up 10-20%. My entire team has said that they cannot wait to see what the future holds as we are continuing to find more ways to improve our process. Close.IO has convinced my team that it is the choice CRM tool.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "Automation and their inbox is a huge pro. \nTheir search feature is arguably the best anyone could ask for. We are still discovering search tricks. GREAT ROI!\nA great help page on the Close.IO site for finding suggestions and troubleshooting.",
+    "cons": "We did have a tough time with our firewall when first setting up Close.IO, so make sure to include your Network Admin in the conversation of switching to Close.IO early on in the process. \nSometimes getting someone on the phone can be a challenge, but email and scheduling a call have never been a problem."
+  },
+  {
+    "reviewerName": "Jayne",
+    "title": "It does the job - but not the best on the market by far",
+    "description": "Comments:If you do not heavily rely on a CRM system and just need a place to lightly store things to check on between departments without having to spend a lot of time training your users, then Close is a good call. However, if you need an in-depth CRM system that helps to manage a pipeline down to the details and has a very organized or detailed structure for viewing accounts, I think there are better options on the market.",
+    "date": "2 years ago",
+    "rating": 4,
+    "pros": "Very clean UX/UI and easy to use and navigate, everything is sort of \"on one page\" so you don't really need to scour around or click on weirdly/technical verbiage-marked buttons.",
+    "cons": "It's actually almost too simple to the point that it can begin to feel cluttered. You can too easily create multiple entries because of how the integrations are set up, so it's not always clear what the \"right\" profile is. Similarly, there's very little tracking of progression, it's quite rudimentary in that sense."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Highly Recommend It",
+    "description": "Comments:I can tell you that I have used over 20 different CRM systems over the past 10 years. We do a tone of cold calling and we need to just blaze through calls fast and I never could find CRM that allowed us to do this.  I was so frustrated that I needed up even creating our own CRM just to do this very thing.  I can’t tell you how much money I spent in development of our CRM to make a product that blazes through calls fast.  We used that for about a year or two then I stumbled on because our in-house custom CRM was having problems and we didn't have the resources to fix it so I figured I would try again.  I cannot tell you how incredibly excited I am about how amazing Stop logging calls and emails and start making them instead. truly is. This CRM is unlike any product on the market it is exactly what we wanted our in-house product to be and more.  It’s so awesome we scrapped our in house product and started exclusively using Stop logging calls and emails and start making them instead.. You do not truly have an appreciation for “next gen” this thing really is, there is literally nothing like it on the market and honestly I’m a bit shocked no one seems to get the amazing this thing is.  This is a pure sales communication tool that cuts out all the BS of a CRM and is a real actual tool that a sales person can use to increase their sales and not just some data collection thing that salespeople are forced to you.  If you actually give a go and start using it you’ll never want to use anything else if you do cold calling.  The thing seamlessly interfaces all your calls AND even all your emails!  You no longer need to be jumping in and out of outlook, you don’t need to check your outlook or Gmail calendar, and you don’t need to do anything except pull up the Stop logging calls and emails and start making them instead. and do the stuff in your inbox and make money.  It pulls in not only your tasks, and follow up meetings but it also syncs your emails and voicemail sand phone calls.  It takes every single bit of communication you do and puts it in one quick “to do list” automatically with ZERO data entry.  It’s blazing fast and it just works.   The voicemail drop thing is really dope, I can’t tell you how many times a day I find myself having to leave voice mails for people, they have this thing that you hit a button and it automatically leaves a voicemail so you can go to the next call, just amazing in terms of productivity.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "There are too many to list – If you do cold calls this is a no brainier, you need to buy it today!  It support The best apps. Better together. as well which means it hooks into hundreds of other marketing tools also.  Their support is second to none, these guys seems to be hustling hard with support, product development and just providing a kick ass experience for their customers. I recommend this product.",
+    "cons": "This thing is EXPENSIVE.. but the truth is you get what you pay for and you geta lot.  Your paying for the best and it has a price tag which clearly says it’s the best because it’s more than double the cost of other competitive products. The downside is though I have 3 team members and I’m paying close $300 to $400 a month for 3 people that’s crazy considering there are other products that do VoIp with Twillio for less than $10 a user. So I went from paying $50 a month for CRM and $80 for Twillio VoIP($180) to $300 a month.  So my prices doubled, which sucked however after using this product it is worth the extra price but if they raise the prices anymore that is just pushing because it really his priced rather high for the market it’s in.   Even the enterprise “SForce” CRMs are not as expensive as that (course those CRMssuck compared to this when it comes to cold calling).  The problem is I can’t easily scale with it.  So I’ll be stuck with a 3 users fora while where if they had it at a lower price point I would buy a license fore very one of my staff but since it’s so expensive I can’t justify it for anyone but my sales people.   I think they are missing out on revenue by not having license does not have the VoIP stuff for like $5 a user so my support team could use it without VoIP and be on par with other CRM price\n\npoints.  It’s clear though this is a nitch product for telephone sales teams.\n\nSO that being said if you do not do a lot of phone sales then this product is probably overkill for you and there are many others that are more of “client manager”type of product where this bad boy is a pure sales beast and nothing else.. It will help increase your sales without a doubt!  In terms of client management and being asingle point for all customer data it does the job but it does not really do that any better than other products out on the market for half its cost.  It’s really the phone cold calling stuff is what makes it so awesome so if any other CRM companies ever figure this out and try to clone/copy it they will have some real competition but so far there is nothing like it and I would buy all over again!  Also I really never write reviews either so the fact I’m even doing this speaks to much this thing rocks!"
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Best CRM for managing relationships",
+    "description": "Comments:Love how simple Close.IO is.  There's one list of contacts , and then an infinite ways of segmenting the data after that in powerful ways.  It's a very powerful concept, and they do it in a way that makes it super easy to manage lists of leads/clients/whatever, and to help make sure you're on top of it.  They do this, however, in my opinion, by sacrificing features available in other top CRMs, some that seem like they should just be there.  For us it has been worthwhile nonetheless.",
+    "date": "9 years ago",
+    "rating": 4,
+    "pros": "By far the easiest and most intuitive way to manage relationships that I've come across.  If it's a big struggle for you to have a bunch of lists of leads, and with your limited time you struggle to stay on top of each and every one of them, then Close.IO is awesome.  It has helped us make sure none fall through the cracks, and does that in a way where I don't have to think about it.  It just lets me know.  Integration through Zapier also brings it to another level of automating workflows.",
+    "cons": "It's missing some features that other CRMs have, especially for the price.  Although the 'smart views' (how you segment the contacts into different lists) is really really awesome and VERY powerful, there are some limitations that sound like should be there but are just missing (e.g. having different default columns per 'smart view', which sounds like a given to me since someone cares about different data depending on if the contact is a cold lead, qualified lead, or client).  Instead now I have a bunch of columns that some people within my company don't care about but are just confusing to them.\n\nAlso, you have to get the pro/business to get several features that I initially expected would be part of the main one, e.g. there's not a single report that can draw a graph to visually get at-a-glance info of any kind in the basic version.  They also don't post their roadmap openly, so I have no idea what features will be coming.\n\nSo in this respect it feels slightly like an incomplete product, but as mentioned, worth it for how incredibly well they execute the main function we need it for (effectively managing relationships/lists of contacts for both sales and client relationships)."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Not a CRM",
+    "description": "Comments:In the end it's very expensive for a bulk lead calling tool.",
+    "date": "6 years ago",
+    "rating": 5,
+    "pros": "This is a great tool if you are just bulk burning through new biz leads and have a fast sales cycle.  the calling through Close.io is great, call recording great, ability to create custom lists for lead calling also great",
+    "cons": "This is not a CRM period!  I would only recommend this if you were integrating it with a dedicated CRM system.  The notes are chaotic and very difficult to look back through history and find important past conversations.  There is no ability to do ANY form of contract management once a customer is closed and there is also no ability to attach anything to the opportunity info.  So if you have a relevant presentation or any documentation relevant to a potential sale you best save it in a google drive and make a custom field to stick the link in."
+  },
+  {
+    "reviewerName": "Varun",
+    "title": "The best CRM for the sales team to do the cold calling at an ease.",
+    "description": "",
+    "date": "6 years ago",
+    "rating": 4,
+    "pros": "We use pipedrive for email marketing and Close.io for cold calling. Our system works like this. Our marketing team use pipedrive to send out email to possible leads and follow up with them and when it results in a successful response from the prospect the sales team collects the phone numbers. Then these prospects with phone numbers have been downloaded to csv and transferred to Close.io CRM for sales team. Then they do all the cold calling with in Close.io CRM. Our department also have access to this CRM to make support calls later on. We can say our sales team's productivity has increased a lot after implementing this CRM. They do not need to manually do the sorting and recording of calls made and everything can be done in settings just one time.",
+    "cons": "When importing the prospects from a CSV if there are duplicates in the file, it doesn't detect that and gets added just like an other contact. There are no option to segment the contact in to different categories."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Great functionality. But you can lose access anytime",
+    "description": "Comments:This is a great platform. But I do not recommend it to anyone. If you are interested in good CRM then try PipeDrive. They don't have a few things, but their technical support will solve all your problems. They also do a lot of custom free stuff. And you can safely store 1M + contacts.",
+    "date": "6 years ago",
+    "rating": 1,
+    "pros": "Awesome UI\nBest filtration and search\nNothing extra\nNot overloaded\nVery fast",
+    "cons": "If your database more than 100K contacts, you will be disconnected, because you will ....\"impacted our infrastructure\"....  When you try to solve a problem and chat with technical support, you will be ignored.\n\nBut there is no public limitation. Try to use. Are you lucky? Maybe not and your work will be suspended immediately. And then you will long try to switch to another platform without any help from those support. Maximum you will have a day."
+  },
+  {
+    "reviewerName": "Chuck",
+    "title": "First thougths on new software",
+    "description": "Comments:I am just beginning to use it so this is an initial review.  So far I have found it simple to learn and effective in lead and customer management.",
+    "date": "2 years ago",
+    "rating": 5,
+    "pros": "Sequencing, calling from the software, activity tracking, call recording, relative simplicity to use",
+    "cons": "no comment yet, i am just beginning to use it"
+  },
+  {
+    "reviewerName": "Jim",
+    "title": "Best out there",
+    "description": "",
+    "date": "4 years ago",
+    "rating": 5,
+    "pros": "Love it for all businesses I have worked in.  I literally have my own Personal Close I use that I bring when I take a contract, so I don't have to use something else. It is part of my working life now  - Easy deployment (Even when Microsoft tries to ruin everything for you), Simple and easy, can opt into great features if you need it, export your leads, whatever it is - It is software that has clearly been made by someone who was in Business Development. The amount of time I save not having to manually document how much work I have done...Makes me more successful.",
+    "cons": "Nothing - it is great - A small deployment issue once, but that was 100% Microsofts fault. The reps were great at fixing it."
+  },
+  {
+    "reviewerName": "Linus",
+    "title": "Awesome product with a great search centric approach",
+    "description": "Comments:At Duma Works, a Kenya based recruitment startup, we use close.io to keep track of all of our customer relations, existing and potential. Apart from that we're also using it as a multi-tool for everything from fundraising to recruitment. The search centric approach makes it easy to create any type of customised list of leads and treat them differently based on their unique characteristics. The ability to add custom fields to all leads in combination with the bulk email feature makes it possible to easily send hundreds of personalised emails in seconds. I would recommend close.io to anyone who wants to maintain and grow a database of contacts, be it customers, candidates or investors.",
+    "date": "10 years ago",
+    "rating": 4,
+    "pros": "- Easy to create customised lead views and send personalised bulk emails\n- Stripped down feature set, only contains what's necessary\n- Extremely easy to get started, no advanced setup necessary\n- Great support and response time from the team at close.io",
+    "cons": "- I lack the ability to track meetings, it's the only part of the sales funnel that I can't follow up on\n- I lack the ability to mark notifications as unread"
+  },
+  {
+    "reviewerName": "Isaiah",
+    "title": "A modern and functional touch to CRM",
+    "description": "",
+    "date": "7 years ago",
+    "rating": 5,
+    "pros": "Coming from Salesforce and other CRM services, Close.io shines a much needed light for our sales team. They follow industry standards and have every feature that I've been used to having. I incredibly appreciate the ability to call and track phone calls directly from the app.",
+    "cons": "The desktop app is where it's all at, but I would appreciate a more fine-tuned web and mobile app considering what we pay and what other services offer."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Will you marry me?",
+    "description": "Comments:I LOVE this solution. It's extremely flexible which is crucial for our company of 80. With our HQ in Europe, and a sales team poised to expand rapidly worldwide, we needed the ability to \"speak\" to each other by having access to all leads in the system and their history. Right now we are piloting Close.io here in the U.S. with a couple of sales people also trying it in Europe. We integrated our incoming leads from our system into close.io via Zapier and all communication via Gmail. It was a snap! Also, the support team can CC or BCC close.io on crucial matters via the ticket system and sales can now see all important transactions in one place. Just in a few short months Sales productivity has changed dramatically, and basically, I'm a happier person, which is good for everyone!",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "Easy to use interface. Nice upgrade with the html in the email function! Integration with the phone is great!",
+    "cons": "Fix the Tasks function to be more user friendly. allow us the hide the custom fields so we don't need to scroll through them all when assigning data."
+  },
+  {
+    "reviewerName": "Ali",
+    "title": "Increases the chance of closing a deal",
+    "description": "Comments:My team and I began using Close.io to close deals via the calling & Email features they have implemented into the software. We imported our leads very easily, and managed to start closing deals with potential clients. Close.io is a unique product that allows you to manage multiple streams that increases the chance of closing a deal.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "Calling feature, Tracked emails, Work with multiple team members on closing deals. \nBiggest feature is the app you can download via the app store or from the close.io website, makes things super easy to manage. The Smart views and sorting filters are very useful in managing multiple leads.\n\nThe support team is incredible! I've never experienced such support with any other company.",
+    "cons": "Only issue I ran into is when grouping leads under a specific category which has to be done manually in the spreadsheets, but I spoke with the support team and gave me step by step to resolve this issue."
+  },
+  {
+    "reviewerName": "Jeffrey",
+    "title": "Great CRM",
+    "description": "Comments:Overall my experience with Close has been a positive one. Customer service is responsive.",
+    "date": "4 years ago",
+    "rating": 4,
+    "pros": "The pros are that is a pretty straight forward CRM to use. It integrates well with many other applications.",
+    "cons": "Overall, I cannot really think of any cons. It gets the job done as a reasonably priced CRM. It does not have as many features as salesforce but for the price its great."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Great CRM for smaller businesses",
+    "description": "",
+    "date": "7 years ago",
+    "rating": 5,
+    "pros": "I like the cost above all else. We used a more expensive CRM for a while and were thrilled to find out about Close.io and its low price in comparison. The platform is also a lot simpler to use than other popular CRMs like SalesForce and Dynamics.",
+    "cons": "There isn't much to dislike about the platform. There could be some additional features to make activities simpler but that's not really anything against the platform, in my opinion."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Best CRM EVER!",
+    "description": "Comments:Close.io has been great from the start. Getting setup was easy and migrating our data from our previous CRM was simple. We are now able to monitor all outreach metrics in real time and close more deals with close.io",
+    "date": "6 years ago",
+    "rating": 5,
+    "pros": "Close.io is every sales teams dream! Its super simple but extremely powerful! It has everything you need to effectively close deals daily and keeps you on track with very little effort.",
+    "cons": "I wish there was a two record type Leads and Accounts. There is a work around but my personal preference is a clear distinction between leads and accounts."
+  },
+  {
+    "reviewerName": "Joshua",
+    "title": "It's like magic",
+    "description": "Comments:We have a startup focused in ticket sales for events in Mexico. We were looking for in-depth data of our salesmen and to make easier for them to keep track of their clients by client type. We used a CRM (highrise), but the data it gave us was no longer enough to know more about whether the size and type of clients - and opportunities - our sales team were generating was the right kind given our current strategy.We initially requested a trial by importing a subset of random data of our former CRM but we felt this was not useful, because not all of those imported leads were relevant to us at the moment. When support from close.io gave us the option to extend our trial period, we deleted all of the previous leads and instead started adding new leads into the platform. That's when we notice the main strong point of close.io: by adding our first lead's email, within seconds we had a full history of each email we exchanged in the past. The desktop app works like a charm. Also, when you have a small sales team like ours, it's great to add a lead and check if one of your teammates already make a contact. Finally, it's amazing how easy is to categorize leads, we even use it to keep track of investors, allies and competitors. The call feature is also a huge breath of fresh air into a follow-up process. The fact you can make calls straight from the app, that those calls get recorded and also get tracked into a lead's history ensures automatic track of almost every kind of interaction with a lead. In our case, although we tried it and it worked great, we won't make use of it because our small office space forces us to do calls by getting outside the office, and given our internet connection is not that solid we will keep making calls the way we are right now and evaluate a full switch later.In a few words: if you have a small sales team and you want to make them doing more closing and less data insertion into follow-up tools, consider switching to close.io",
+    "date": "10 years ago",
+    "rating": 4,
+    "pros": "The email auto-tracking is by far the the tool of close.io. The fact you can create a lead and it automatically brings all of the history of emails you exchanged with them gives a lot more insight and visibility into salesman follow-up performance. Also, the call feature; if you have a strong internet connection, and especially if you're a startup and your salespeople is constantly on the run. Support also responds very quickly to feedback, which made a lot easier the switch from our former CRM.",
+    "cons": "For our business, it´s very important to do bulk imports. However, the tool does not let you to opt out of duplicating leads, which makes us take longer to \"curate\" each file we want to import."
+  },
+  {
+    "reviewerName": "Tony",
+    "title": "Close.com Can Make Your Business Run Efficiently and Problem Free",
+    "description": "Comments:We had another CRM system that was a lot more expensive and not very easy to use. Close.com is just a pure pleasure to work with and the entire team here is thrilled with it.",
+    "date": "3 years ago",
+    "rating": 5,
+    "pros": "Platform is very easy to use and all employees just loved it the minute they tried it out.  We all wonder why we didn't get this sooner.  Close.com is also fun to use and everything is at your fingertips. Program works fast and makes the customer ticket system very efficient.",
+    "cons": "No cons at all. I mean it.  This program Rocks:)"
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Most your organization will ask, \"why aren't we using Salesforce?\"",
+    "description": "Comments:Skip it.",
+    "date": "6 years ago",
+    "rating": 3,
+    "pros": "Great if you have the patience and developments resources to help you customize everything. API is good, but for most non-enterprise organizations, who has time to be messing with APIs? Built in VoIP is a nice feature, but do your math and make sure the price is worth it.",
+    "cons": "- Searching for data is near impossible. Can't filter for anything logically without getting into \"raw queries,\" so you better be half an engineer if you want to search for anything.\n- Reporting is a joke. The reporting tools might as well not exist. Be prepared to ask developers to leverage the API and sync into some other tool.\n- No matter what they may sell you, it's a CRM best used with small sales teams. It's not for account management or companies that expect anyone without an engineering degree to figure out how to analyze the data inside of it."
+  },
+  {
+    "reviewerName": "Alexander",
+    "title": "Close is great for startup sales but lacks some simple features",
+    "description": "Comments:Overall it's been a good but not great experience. The basics are covered for a CRM but some what seems like basic features are still missing.",
+    "date": "5 years ago",
+    "rating": 4,
+    "pros": "I love the automated email sequences to help with my outbound prospecting efforts. This enables me to 'set it and forget it\" to ensure proper follow up is happening with prospects.",
+    "cons": "I don't like that you can't map specific email chains to specific opportunities. Furthermore,  you can't upload files which is a real drawback and support suggested I just link to google shared drives."
+  },
+  {
+    "reviewerName": "Anna",
+    "title": "Close.io for therapists, tutors and coaches",
+    "description": "Comments:I have been looking at various CRM's for my private practice. I provide online therapy for speech, language and learning. Close.io impressed me with its rich features and customizations. I loved the fact that Close.io works perfectly for one person. So many of the other CRMs are for sales teams.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "Everything functioned flawlessly on the first try. I was able to set it up to use my domain name email. I imported all my contacts from Gmail. I could add customizations that would make it easy to keep track of my clients. \n\nThe search function knocked my socks off! I couldn't remember the name of a certain funding agency. Just by entering the client's name, it gave me the funding agency.\n\nClose.io was created for people trying to make an initial sale. I keep my clients three or four years and they often need a break from therapy for a few months. It was easy for me to give clients a status, such as \"paused\" or \"completed goals\".\n\nI was able to collect leads from my Wordpress website using Planso Forms. These create a new lead in Close.io.\n\nThe options to add a phone line and bulk email surprised me. I haven't seen this in any other CRMs. I can create email templates and send out messages to groups of people using my domain name email. The messages are plain text, which is just right for smart phones. \n\nI tried out the phone function on my computer. I have been using Magic Jack, and getting complaints from clients about MJ. The Close.io phone line is from Twilio and is much clearer. By installing the app on my phone, I can have a second phone number on my cell and I don't have to give clients my personal number.",
+    "cons": "I'm in Canada. I wish the price wasn't so high, especially with the exchange rate.  \n\nAs an online therapy provider, I also have to pay for a telepractice platform and an online scheduler. If Close.io offered integration with Verishow and Accuity Scheduling, they would be able to offer a complete virtual office for online therapists, tutors, and coaches."
+  },
+  {
+    "reviewerName": "Pruthvi",
+    "title": "Great CRM",
+    "description": "",
+    "date": "2 years ago",
+    "rating": 4,
+    "pros": "Integrates into other platforms easily. Great to use",
+    "cons": "Not so user-friendly. UI & UX could be better"
+  },
+  {
+    "reviewerName": "Nick",
+    "title": "A modern sales platform optimized for outreach",
+    "description": "Comments:While Close.io is a CRM by definition, I consider it more of a sales platform. I consider it as a platform because of it's flexible and rich API that allows you to customize any component. Close.io is a fantastic tool that teams should use for interacting with their customers. With built-in call and email integration, Close.io is designed for salesperson outreach. It eliminates unnecessary data entry, and is the perfect companion for any sales team using the \"Predictable Revenue\" (A book by Aaron Ross) approach to sales. All activity (calls, emails, lead status changes) is automatically tracked, leaving the sales rep to just write contextual notes for each activity.The automatic tracking of activity leads sales managers to easily determine how much activity yields certain sales results. Those answers are the holy grail when it comes to building a scalable sales process.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "- Built-in call and email integration.\n- Flexible and powerful API w/ great documentation.\n- Dynamic lead lists (called \"Smart Views\") powered through search.\n- Native Mac and WIndows apps.\n- Responsive support team.\n- Custom fields",
+    "cons": "- Costly for budget conscious teams. (But not less expensive than Salesforce and like platforms)\n- No native mobile apps yet. (Not recommended for outside sales teams)"
+  },
+  {
+    "reviewerName": "James",
+    "title": "Best CRM I've had the pleasure of using",
+    "description": "Comments:Close.io has been a huge help to our small B2B sales department. Before close.io we were using multiple programs to email, call, track, notate, and manage customers. It was a mess!!! Now we can do everything within the app itself. No more transferring information from one source to the other.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "The features that helped us the most:\n\n-real-time integration with gmail. We send and receive all our email through the app. Besides being more convenient it also keeps all correspondence logged in an easy to reference way. \n-recorded calls - all calls and voice-mails are automatically listed right along with notes and emails. This is incredibly useful with longer sales cycles. We are able to go back and actually hear what the customer said on the call two months ago. So much better than just notes, especially if there is every a disagreement.  \n- Support is amazing. Always very responsive and timely and walked us through our limited implementation issues, (see below). Additionally, they are always improving the app, so about the time I suggest an option I'd like to see it is already slated to be rolled out.",
+    "cons": "Not really any cons to speak of, but we had a couple issues at first:\n\n- call quality was poor. This was due to trying to use a wireless connection and after switching everyone over to wired, it went away. So while not an app problem, something to consider if you or your team work remotely.\n\n-Some merging issues when pulling lead data from our web form. Again, this was not an app problem so much as a developer problem on our end, but it was a headache for a couple days none the less."
+  },
+  {
+    "reviewerName": "Jordan",
+    "title": "Rigid structure means only certain sales processes fit (adaptations to all processes are necessary to use effectively)",
+    "description": "Comments:Overall, Close.io is a B2B CRM where each client has only a few main contacts and they all go through a specific, well-defined process, regardless of whether or not the deal is closed.It's a very expensive platform, especially if you want calling features, so keep that in mind. My two cents: you should assess how well Close.io meets your needs before deciding that this is the right CRM (vs. a different CRM or a custom CRM if you're at higher volumes). Once you decide that it's worth exploring, my recommendation is to figure out how much you'll be paying in annual costs vs. a custom CRM implementation. Close.io pretty much won't prioritize features for you, so if you need anything custom done, I recommend going somewhere else.",
+    "date": "8 years ago",
+    "rating": 4,
+    "pros": "- Easy to get started\n- Easy to import leads\n- Easy to keep track of how everyone at your organization is interacting with the client\n- Pretty simple, but effective reporting",
+    "cons": "- Expensive\n- Low quality call audio\n- Low customization\n- Rigid sales structure set-up"
+  },
+  {
+    "reviewerName": "JASON",
+    "title": "The future looks bright with Close.IO",
+    "description": "Comments:I have used Close.IO at my past company and this is the only CRM that I can endorse. When I told my team that I was going to update the current CRM tool I was met with a lot of questions and concerns. After showing the video on the Close.IO site and taking questions for about 20 mins my team was buying into the idea of changing over. I was also able to prove to them that there would be a minimum of an hour that each of them would save a day, so that peaked their interest. Then as we ramped up for the change the nervousness kicked in again, so I made sure to stage the rollout in an effort to handle all questions in a controlled manner and prepare for more users. The employees were blown away by the ease of use! And I was impressed at just how smooth it all went. Being a tech guy my learning curve is quick, but from employees in their 20's-50's we had a hugely successful transition into Close.IO.While my team is still early in the game, about 3 weeks into Close, we are seeing AMAZING results. One of my sales guys is up 50% in his personal sales! Others are up 10-20%. My entire team has said that they cannot wait to see what the future holds as we are continuing to find more ways to improve our process. Close.IO has convinced my team that it is the choice CRM tool.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "Automation and their inbox is a huge pro. \nTheir search feature is arguably the best anyone could ask for. We are still discovering search tricks. GREAT ROI!\nA great help page on the Close.IO site for finding suggestions and troubleshooting.",
+    "cons": "We did have a tough time with our firewall when first setting up Close.IO, so make sure to include your Network Admin in the conversation of switching to Close.IO early on in the process. \nSometimes getting someone on the phone can be a challenge, but email and scheduling a call have never been a problem."
+  },
+  {
+    "reviewerName": "Jayne",
+    "title": "It does the job - but not the best on the market by far",
+    "description": "Comments:If you do not heavily rely on a CRM system and just need a place to lightly store things to check on between departments without having to spend a lot of time training your users, then Close is a good call. However, if you need an in-depth CRM system that helps to manage a pipeline down to the details and has a very organized or detailed structure for viewing accounts, I think there are better options on the market.",
+    "date": "2 years ago",
+    "rating": 4,
+    "pros": "Very clean UX/UI and easy to use and navigate, everything is sort of \"on one page\" so you don't really need to scour around or click on weirdly/technical verbiage-marked buttons.",
+    "cons": "It's actually almost too simple to the point that it can begin to feel cluttered. You can too easily create multiple entries because of how the integrations are set up, so it's not always clear what the \"right\" profile is. Similarly, there's very little tracking of progression, it's quite rudimentary in that sense."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Highly Recommend It",
+    "description": "Comments:I can tell you that I have used over 20 different CRM systems over the past 10 years. We do a tone of cold calling and we need to just blaze through calls fast and I never could find CRM that allowed us to do this.  I was so frustrated that I needed up even creating our own CRM just to do this very thing.  I can’t tell you how much money I spent in development of our CRM to make a product that blazes through calls fast.  We used that for about a year or two then I stumbled on because our in-house custom CRM was having problems and we didn't have the resources to fix it so I figured I would try again.  I cannot tell you how incredibly excited I am about how amazing Stop logging calls and emails and start making them instead. truly is. This CRM is unlike any product on the market it is exactly what we wanted our in-house product to be and more.  It’s so awesome we scrapped our in house product and started exclusively using Stop logging calls and emails and start making them instead.. You do not truly have an appreciation for “next gen” this thing really is, there is literally nothing like it on the market and honestly I’m a bit shocked no one seems to get the amazing this thing is.  This is a pure sales communication tool that cuts out all the BS of a CRM and is a real actual tool that a sales person can use to increase their sales and not just some data collection thing that salespeople are forced to you.  If you actually give a go and start using it you’ll never want to use anything else if you do cold calling.  The thing seamlessly interfaces all your calls AND even all your emails!  You no longer need to be jumping in and out of outlook, you don’t need to check your outlook or Gmail calendar, and you don’t need to do anything except pull up the Stop logging calls and emails and start making them instead. and do the stuff in your inbox and make money.  It pulls in not only your tasks, and follow up meetings but it also syncs your emails and voicemail sand phone calls.  It takes every single bit of communication you do and puts it in one quick “to do list” automatically with ZERO data entry.  It’s blazing fast and it just works.   The voicemail drop thing is really dope, I can’t tell you how many times a day I find myself having to leave voice mails for people, they have this thing that you hit a button and it automatically leaves a voicemail so you can go to the next call, just amazing in terms of productivity.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "There are too many to list – If you do cold calls this is a no brainier, you need to buy it today!  It support The best apps. Better together. as well which means it hooks into hundreds of other marketing tools also.  Their support is second to none, these guys seems to be hustling hard with support, product development and just providing a kick ass experience for their customers. I recommend this product.",
+    "cons": "This thing is EXPENSIVE.. but the truth is you get what you pay for and you geta lot.  Your paying for the best and it has a price tag which clearly says it’s the best because it’s more than double the cost of other competitive products. The downside is though I have 3 team members and I’m paying close $300 to $400 a month for 3 people that’s crazy considering there are other products that do VoIp with Twillio for less than $10 a user. So I went from paying $50 a month for CRM and $80 for Twillio VoIP($180) to $300 a month.  So my prices doubled, which sucked however after using this product it is worth the extra price but if they raise the prices anymore that is just pushing because it really his priced rather high for the market it’s in.   Even the enterprise “SForce” CRMs are not as expensive as that (course those CRMssuck compared to this when it comes to cold calling).  The problem is I can’t easily scale with it.  So I’ll be stuck with a 3 users fora while where if they had it at a lower price point I would buy a license fore very one of my staff but since it’s so expensive I can’t justify it for anyone but my sales people.   I think they are missing out on revenue by not having license does not have the VoIP stuff for like $5 a user so my support team could use it without VoIP and be on par with other CRM price\n\npoints.  It’s clear though this is a nitch product for telephone sales teams.\n\nSO that being said if you do not do a lot of phone sales then this product is probably overkill for you and there are many others that are more of “client manager”type of product where this bad boy is a pure sales beast and nothing else.. It will help increase your sales without a doubt!  In terms of client management and being asingle point for all customer data it does the job but it does not really do that any better than other products out on the market for half its cost.  It’s really the phone cold calling stuff is what makes it so awesome so if any other CRM companies ever figure this out and try to clone/copy it they will have some real competition but so far there is nothing like it and I would buy all over again!  Also I really never write reviews either so the fact I’m even doing this speaks to much this thing rocks!"
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Best CRM for managing relationships",
+    "description": "Comments:Love how simple Close.IO is.  There's one list of contacts , and then an infinite ways of segmenting the data after that in powerful ways.  It's a very powerful concept, and they do it in a way that makes it super easy to manage lists of leads/clients/whatever, and to help make sure you're on top of it.  They do this, however, in my opinion, by sacrificing features available in other top CRMs, some that seem like they should just be there.  For us it has been worthwhile nonetheless.",
+    "date": "9 years ago",
+    "rating": 4,
+    "pros": "By far the easiest and most intuitive way to manage relationships that I've come across.  If it's a big struggle for you to have a bunch of lists of leads, and with your limited time you struggle to stay on top of each and every one of them, then Close.IO is awesome.  It has helped us make sure none fall through the cracks, and does that in a way where I don't have to think about it.  It just lets me know.  Integration through Zapier also brings it to another level of automating workflows.",
+    "cons": "It's missing some features that other CRMs have, especially for the price.  Although the 'smart views' (how you segment the contacts into different lists) is really really awesome and VERY powerful, there are some limitations that sound like should be there but are just missing (e.g. having different default columns per 'smart view', which sounds like a given to me since someone cares about different data depending on if the contact is a cold lead, qualified lead, or client).  Instead now I have a bunch of columns that some people within my company don't care about but are just confusing to them.\n\nAlso, you have to get the pro/business to get several features that I initially expected would be part of the main one, e.g. there's not a single report that can draw a graph to visually get at-a-glance info of any kind in the basic version.  They also don't post their roadmap openly, so I have no idea what features will be coming.\n\nSo in this respect it feels slightly like an incomplete product, but as mentioned, worth it for how incredibly well they execute the main function we need it for (effectively managing relationships/lists of contacts for both sales and client relationships)."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Not a CRM",
+    "description": "Comments:In the end it's very expensive for a bulk lead calling tool.",
+    "date": "6 years ago",
+    "rating": 5,
+    "pros": "This is a great tool if you are just bulk burning through new biz leads and have a fast sales cycle.  the calling through Close.io is great, call recording great, ability to create custom lists for lead calling also great",
+    "cons": "This is not a CRM period!  I would only recommend this if you were integrating it with a dedicated CRM system.  The notes are chaotic and very difficult to look back through history and find important past conversations.  There is no ability to do ANY form of contract management once a customer is closed and there is also no ability to attach anything to the opportunity info.  So if you have a relevant presentation or any documentation relevant to a potential sale you best save it in a google drive and make a custom field to stick the link in."
+  },
+  {
+    "reviewerName": "Varun",
+    "title": "The best CRM for the sales team to do the cold calling at an ease.",
+    "description": "",
+    "date": "6 years ago",
+    "rating": 4,
+    "pros": "We use pipedrive for email marketing and Close.io for cold calling. Our system works like this. Our marketing team use pipedrive to send out email to possible leads and follow up with them and when it results in a successful response from the prospect the sales team collects the phone numbers. Then these prospects with phone numbers have been downloaded to csv and transferred to Close.io CRM for sales team. Then they do all the cold calling with in Close.io CRM. Our department also have access to this CRM to make support calls later on. We can say our sales team's productivity has increased a lot after implementing this CRM. They do not need to manually do the sorting and recording of calls made and everything can be done in settings just one time.",
+    "cons": "When importing the prospects from a CSV if there are duplicates in the file, it doesn't detect that and gets added just like an other contact. There are no option to segment the contact in to different categories."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Great functionality. But you can lose access anytime",
+    "description": "Comments:This is a great platform. But I do not recommend it to anyone. If you are interested in good CRM then try PipeDrive. They don't have a few things, but their technical support will solve all your problems. They also do a lot of custom free stuff. And you can safely store 1M + contacts.",
+    "date": "6 years ago",
+    "rating": 1,
+    "pros": "Awesome UI\nBest filtration and search\nNothing extra\nNot overloaded\nVery fast",
+    "cons": "If your database more than 100K contacts, you will be disconnected, because you will ....\"impacted our infrastructure\"....  When you try to solve a problem and chat with technical support, you will be ignored.\n\nBut there is no public limitation. Try to use. Are you lucky? Maybe not and your work will be suspended immediately. And then you will long try to switch to another platform without any help from those support. Maximum you will have a day."
+  },
+  {
+    "reviewerName": "Chuck",
+    "title": "First thougths on new software",
+    "description": "Comments:I am just beginning to use it so this is an initial review.  So far I have found it simple to learn and effective in lead and customer management.",
+    "date": "2 years ago",
+    "rating": 5,
+    "pros": "Sequencing, calling from the software, activity tracking, call recording, relative simplicity to use",
+    "cons": "no comment yet, i am just beginning to use it"
+  },
+  {
+    "reviewerName": "Jim",
+    "title": "Best out there",
+    "description": "",
+    "date": "4 years ago",
+    "rating": 5,
+    "pros": "Love it for all businesses I have worked in.  I literally have my own Personal Close I use that I bring when I take a contract, so I don't have to use something else. It is part of my working life now  - Easy deployment (Even when Microsoft tries to ruin everything for you), Simple and easy, can opt into great features if you need it, export your leads, whatever it is - It is software that has clearly been made by someone who was in Business Development. The amount of time I save not having to manually document how much work I have done...Makes me more successful.",
+    "cons": "Nothing - it is great - A small deployment issue once, but that was 100% Microsofts fault. The reps were great at fixing it."
+  },
+  {
+    "reviewerName": "Linus",
+    "title": "Awesome product with a great search centric approach",
+    "description": "Comments:At Duma Works, a Kenya based recruitment startup, we use close.io to keep track of all of our customer relations, existing and potential. Apart from that we're also using it as a multi-tool for everything from fundraising to recruitment. The search centric approach makes it easy to create any type of customised list of leads and treat them differently based on their unique characteristics. The ability to add custom fields to all leads in combination with the bulk email feature makes it possible to easily send hundreds of personalised emails in seconds. I would recommend close.io to anyone who wants to maintain and grow a database of contacts, be it customers, candidates or investors.",
+    "date": "10 years ago",
+    "rating": 4,
+    "pros": "- Easy to create customised lead views and send personalised bulk emails\n- Stripped down feature set, only contains what's necessary\n- Extremely easy to get started, no advanced setup necessary\n- Great support and response time from the team at close.io",
+    "cons": "- I lack the ability to track meetings, it's the only part of the sales funnel that I can't follow up on\n- I lack the ability to mark notifications as unread"
+  },
+  {
+    "reviewerName": "Isaiah",
+    "title": "A modern and functional touch to CRM",
+    "description": "",
+    "date": "7 years ago",
+    "rating": 5,
+    "pros": "Coming from Salesforce and other CRM services, Close.io shines a much needed light for our sales team. They follow industry standards and have every feature that I've been used to having. I incredibly appreciate the ability to call and track phone calls directly from the app.",
+    "cons": "The desktop app is where it's all at, but I would appreciate a more fine-tuned web and mobile app considering what we pay and what other services offer."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Will you marry me?",
+    "description": "Comments:I LOVE this solution. It's extremely flexible which is crucial for our company of 80. With our HQ in Europe, and a sales team poised to expand rapidly worldwide, we needed the ability to \"speak\" to each other by having access to all leads in the system and their history. Right now we are piloting Close.io here in the U.S. with a couple of sales people also trying it in Europe. We integrated our incoming leads from our system into close.io via Zapier and all communication via Gmail. It was a snap! Also, the support team can CC or BCC close.io on crucial matters via the ticket system and sales can now see all important transactions in one place. Just in a few short months Sales productivity has changed dramatically, and basically, I'm a happier person, which is good for everyone!",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "Easy to use interface. Nice upgrade with the html in the email function! Integration with the phone is great!",
+    "cons": "Fix the Tasks function to be more user friendly. allow us the hide the custom fields so we don't need to scroll through them all when assigning data."
+  },
+  {
+    "reviewerName": "Ali",
+    "title": "Increases the chance of closing a deal",
+    "description": "Comments:My team and I began using Close.io to close deals via the calling & Email features they have implemented into the software. We imported our leads very easily, and managed to start closing deals with potential clients. Close.io is a unique product that allows you to manage multiple streams that increases the chance of closing a deal.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "Calling feature, Tracked emails, Work with multiple team members on closing deals. \nBiggest feature is the app you can download via the app store or from the close.io website, makes things super easy to manage. The Smart views and sorting filters are very useful in managing multiple leads.\n\nThe support team is incredible! I've never experienced such support with any other company.",
+    "cons": "Only issue I ran into is when grouping leads under a specific category which has to be done manually in the spreadsheets, but I spoke with the support team and gave me step by step to resolve this issue."
+  },
+  {
+    "reviewerName": "Jeffrey",
+    "title": "Great CRM",
+    "description": "Comments:Overall my experience with Close has been a positive one. Customer service is responsive.",
+    "date": "4 years ago",
+    "rating": 4,
+    "pros": "The pros are that is a pretty straight forward CRM to use. It integrates well with many other applications.",
+    "cons": "Overall, I cannot really think of any cons. It gets the job done as a reasonably priced CRM. It does not have as many features as salesforce but for the price its great."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Great CRM for smaller businesses",
+    "description": "",
+    "date": "7 years ago",
+    "rating": 5,
+    "pros": "I like the cost above all else. We used a more expensive CRM for a while and were thrilled to find out about Close.io and its low price in comparison. The platform is also a lot simpler to use than other popular CRMs like SalesForce and Dynamics.",
+    "cons": "There isn't much to dislike about the platform. There could be some additional features to make activities simpler but that's not really anything against the platform, in my opinion."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Best CRM EVER!",
+    "description": "Comments:Close.io has been great from the start. Getting setup was easy and migrating our data from our previous CRM was simple. We are now able to monitor all outreach metrics in real time and close more deals with close.io",
+    "date": "6 years ago",
+    "rating": 5,
+    "pros": "Close.io is every sales teams dream! Its super simple but extremely powerful! It has everything you need to effectively close deals daily and keeps you on track with very little effort.",
+    "cons": "I wish there was a two record type Leads and Accounts. There is a work around but my personal preference is a clear distinction between leads and accounts."
+  },
+  {
+    "reviewerName": "Joshua",
+    "title": "It's like magic",
+    "description": "Comments:We have a startup focused in ticket sales for events in Mexico. We were looking for in-depth data of our salesmen and to make easier for them to keep track of their clients by client type. We used a CRM (highrise), but the data it gave us was no longer enough to know more about whether the size and type of clients - and opportunities - our sales team were generating was the right kind given our current strategy.We initially requested a trial by importing a subset of random data of our former CRM but we felt this was not useful, because not all of those imported leads were relevant to us at the moment. When support from close.io gave us the option to extend our trial period, we deleted all of the previous leads and instead started adding new leads into the platform. That's when we notice the main strong point of close.io: by adding our first lead's email, within seconds we had a full history of each email we exchanged in the past. The desktop app works like a charm. Also, when you have a small sales team like ours, it's great to add a lead and check if one of your teammates already make a contact. Finally, it's amazing how easy is to categorize leads, we even use it to keep track of investors, allies and competitors. The call feature is also a huge breath of fresh air into a follow-up process. The fact you can make calls straight from the app, that those calls get recorded and also get tracked into a lead's history ensures automatic track of almost every kind of interaction with a lead. In our case, although we tried it and it worked great, we won't make use of it because our small office space forces us to do calls by getting outside the office, and given our internet connection is not that solid we will keep making calls the way we are right now and evaluate a full switch later.In a few words: if you have a small sales team and you want to make them doing more closing and less data insertion into follow-up tools, consider switching to close.io",
+    "date": "10 years ago",
+    "rating": 4,
+    "pros": "The email auto-tracking is by far the the tool of close.io. The fact you can create a lead and it automatically brings all of the history of emails you exchanged with them gives a lot more insight and visibility into salesman follow-up performance. Also, the call feature; if you have a strong internet connection, and especially if you're a startup and your salespeople is constantly on the run. Support also responds very quickly to feedback, which made a lot easier the switch from our former CRM.",
+    "cons": "For our business, it´s very important to do bulk imports. However, the tool does not let you to opt out of duplicating leads, which makes us take longer to \"curate\" each file we want to import."
+  },
+  {
+    "reviewerName": "Tony",
+    "title": "Close.com Can Make Your Business Run Efficiently and Problem Free",
+    "description": "Comments:We had another CRM system that was a lot more expensive and not very easy to use. Close.com is just a pure pleasure to work with and the entire team here is thrilled with it.",
+    "date": "3 years ago",
+    "rating": 5,
+    "pros": "Platform is very easy to use and all employees just loved it the minute they tried it out.  We all wonder why we didn't get this sooner.  Close.com is also fun to use and everything is at your fingertips. Program works fast and makes the customer ticket system very efficient.",
+    "cons": "No cons at all. I mean it.  This program Rocks:)"
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Most your organization will ask, \"why aren't we using Salesforce?\"",
+    "description": "Comments:Skip it.",
+    "date": "6 years ago",
+    "rating": 3,
+    "pros": "Great if you have the patience and developments resources to help you customize everything. API is good, but for most non-enterprise organizations, who has time to be messing with APIs? Built in VoIP is a nice feature, but do your math and make sure the price is worth it.",
+    "cons": "- Searching for data is near impossible. Can't filter for anything logically without getting into \"raw queries,\" so you better be half an engineer if you want to search for anything.\n- Reporting is a joke. The reporting tools might as well not exist. Be prepared to ask developers to leverage the API and sync into some other tool.\n- No matter what they may sell you, it's a CRM best used with small sales teams. It's not for account management or companies that expect anyone without an engineering degree to figure out how to analyze the data inside of it."
+  },
+  {
+    "reviewerName": "Alexander",
+    "title": "Close is great for startup sales but lacks some simple features",
+    "description": "Comments:Overall it's been a good but not great experience. The basics are covered for a CRM but some what seems like basic features are still missing.",
+    "date": "5 years ago",
+    "rating": 4,
+    "pros": "I love the automated email sequences to help with my outbound prospecting efforts. This enables me to 'set it and forget it\" to ensure proper follow up is happening with prospects.",
+    "cons": "I don't like that you can't map specific email chains to specific opportunities. Furthermore,  you can't upload files which is a real drawback and support suggested I just link to google shared drives."
+  },
+  {
+    "reviewerName": "Anna",
+    "title": "Close.io for therapists, tutors and coaches",
+    "description": "Comments:I have been looking at various CRM's for my private practice. I provide online therapy for speech, language and learning. Close.io impressed me with its rich features and customizations. I loved the fact that Close.io works perfectly for one person. So many of the other CRMs are for sales teams.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "Everything functioned flawlessly on the first try. I was able to set it up to use my domain name email. I imported all my contacts from Gmail. I could add customizations that would make it easy to keep track of my clients. \n\nThe search function knocked my socks off! I couldn't remember the name of a certain funding agency. Just by entering the client's name, it gave me the funding agency.\n\nClose.io was created for people trying to make an initial sale. I keep my clients three or four years and they often need a break from therapy for a few months. It was easy for me to give clients a status, such as \"paused\" or \"completed goals\".\n\nI was able to collect leads from my Wordpress website using Planso Forms. These create a new lead in Close.io.\n\nThe options to add a phone line and bulk email surprised me. I haven't seen this in any other CRMs. I can create email templates and send out messages to groups of people using my domain name email. The messages are plain text, which is just right for smart phones. \n\nI tried out the phone function on my computer. I have been using Magic Jack, and getting complaints from clients about MJ. The Close.io phone line is from Twilio and is much clearer. By installing the app on my phone, I can have a second phone number on my cell and I don't have to give clients my personal number.",
+    "cons": "I'm in Canada. I wish the price wasn't so high, especially with the exchange rate.  \n\nAs an online therapy provider, I also have to pay for a telepractice platform and an online scheduler. If Close.io offered integration with Verishow and Accuity Scheduling, they would be able to offer a complete virtual office for online therapists, tutors, and coaches."
+  },
+  {
+    "reviewerName": "Pruthvi",
+    "title": "Great CRM",
+    "description": "",
+    "date": "2 years ago",
+    "rating": 4,
+    "pros": "Integrates into other platforms easily. Great to use",
+    "cons": "Not so user-friendly. UI & UX could be better"
+  },
+  {
+    "reviewerName": "Nick",
+    "title": "A modern sales platform optimized for outreach",
+    "description": "Comments:While Close.io is a CRM by definition, I consider it more of a sales platform. I consider it as a platform because of it's flexible and rich API that allows you to customize any component. Close.io is a fantastic tool that teams should use for interacting with their customers. With built-in call and email integration, Close.io is designed for salesperson outreach. It eliminates unnecessary data entry, and is the perfect companion for any sales team using the \"Predictable Revenue\" (A book by Aaron Ross) approach to sales. All activity (calls, emails, lead status changes) is automatically tracked, leaving the sales rep to just write contextual notes for each activity.The automatic tracking of activity leads sales managers to easily determine how much activity yields certain sales results. Those answers are the holy grail when it comes to building a scalable sales process.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "- Built-in call and email integration.\n- Flexible and powerful API w/ great documentation.\n- Dynamic lead lists (called \"Smart Views\") powered through search.\n- Native Mac and WIndows apps.\n- Responsive support team.\n- Custom fields",
+    "cons": "- Costly for budget conscious teams. (But not less expensive than Salesforce and like platforms)\n- No native mobile apps yet. (Not recommended for outside sales teams)"
+  },
+  {
+    "reviewerName": "James",
+    "title": "Best CRM I've had the pleasure of using",
+    "description": "Comments:Close.io has been a huge help to our small B2B sales department. Before close.io we were using multiple programs to email, call, track, notate, and manage customers. It was a mess!!! Now we can do everything within the app itself. No more transferring information from one source to the other.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "The features that helped us the most:\n\n-real-time integration with gmail. We send and receive all our email through the app. Besides being more convenient it also keeps all correspondence logged in an easy to reference way. \n-recorded calls - all calls and voice-mails are automatically listed right along with notes and emails. This is incredibly useful with longer sales cycles. We are able to go back and actually hear what the customer said on the call two months ago. So much better than just notes, especially if there is every a disagreement.  \n- Support is amazing. Always very responsive and timely and walked us through our limited implementation issues, (see below). Additionally, they are always improving the app, so about the time I suggest an option I'd like to see it is already slated to be rolled out.",
+    "cons": "Not really any cons to speak of, but we had a couple issues at first:\n\n- call quality was poor. This was due to trying to use a wireless connection and after switching everyone over to wired, it went away. So while not an app problem, something to consider if you or your team work remotely.\n\n-Some merging issues when pulling lead data from our web form. Again, this was not an app problem so much as a developer problem on our end, but it was a headache for a couple days none the less."
+  },
+  {
+    "reviewerName": "Jordan",
+    "title": "Rigid structure means only certain sales processes fit (adaptations to all processes are necessary to use effectively)",
+    "description": "Comments:Overall, Close.io is a B2B CRM where each client has only a few main contacts and they all go through a specific, well-defined process, regardless of whether or not the deal is closed.It's a very expensive platform, especially if you want calling features, so keep that in mind. My two cents: you should assess how well Close.io meets your needs before deciding that this is the right CRM (vs. a different CRM or a custom CRM if you're at higher volumes). Once you decide that it's worth exploring, my recommendation is to figure out how much you'll be paying in annual costs vs. a custom CRM implementation. Close.io pretty much won't prioritize features for you, so if you need anything custom done, I recommend going somewhere else.",
+    "date": "8 years ago",
+    "rating": 4,
+    "pros": "- Easy to get started\n- Easy to import leads\n- Easy to keep track of how everyone at your organization is interacting with the client\n- Pretty simple, but effective reporting",
+    "cons": "- Expensive\n- Low quality call audio\n- Low customization\n- Rigid sales structure set-up"
+  },
+  {
+    "reviewerName": "JASON",
+    "title": "The future looks bright with Close.IO",
+    "description": "Comments:I have used Close.IO at my past company and this is the only CRM that I can endorse. When I told my team that I was going to update the current CRM tool I was met with a lot of questions and concerns. After showing the video on the Close.IO site and taking questions for about 20 mins my team was buying into the idea of changing over. I was also able to prove to them that there would be a minimum of an hour that each of them would save a day, so that peaked their interest. Then as we ramped up for the change the nervousness kicked in again, so I made sure to stage the rollout in an effort to handle all questions in a controlled manner and prepare for more users. The employees were blown away by the ease of use! And I was impressed at just how smooth it all went. Being a tech guy my learning curve is quick, but from employees in their 20's-50's we had a hugely successful transition into Close.IO.While my team is still early in the game, about 3 weeks into Close, we are seeing AMAZING results. One of my sales guys is up 50% in his personal sales! Others are up 10-20%. My entire team has said that they cannot wait to see what the future holds as we are continuing to find more ways to improve our process. Close.IO has convinced my team that it is the choice CRM tool.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "Automation and their inbox is a huge pro. \nTheir search feature is arguably the best anyone could ask for. We are still discovering search tricks. GREAT ROI!\nA great help page on the Close.IO site for finding suggestions and troubleshooting.",
+    "cons": "We did have a tough time with our firewall when first setting up Close.IO, so make sure to include your Network Admin in the conversation of switching to Close.IO early on in the process. \nSometimes getting someone on the phone can be a challenge, but email and scheduling a call have never been a problem."
+  },
+  {
+    "reviewerName": "Jayne",
+    "title": "It does the job - but not the best on the market by far",
+    "description": "Comments:If you do not heavily rely on a CRM system and just need a place to lightly store things to check on between departments without having to spend a lot of time training your users, then Close is a good call. However, if you need an in-depth CRM system that helps to manage a pipeline down to the details and has a very organized or detailed structure for viewing accounts, I think there are better options on the market.",
+    "date": "2 years ago",
+    "rating": 4,
+    "pros": "Very clean UX/UI and easy to use and navigate, everything is sort of \"on one page\" so you don't really need to scour around or click on weirdly/technical verbiage-marked buttons.",
+    "cons": "It's actually almost too simple to the point that it can begin to feel cluttered. You can too easily create multiple entries because of how the integrations are set up, so it's not always clear what the \"right\" profile is. Similarly, there's very little tracking of progression, it's quite rudimentary in that sense."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Highly Recommend It",
+    "description": "Comments:I can tell you that I have used over 20 different CRM systems over the past 10 years. We do a tone of cold calling and we need to just blaze through calls fast and I never could find CRM that allowed us to do this.  I was so frustrated that I needed up even creating our own CRM just to do this very thing.  I can’t tell you how much money I spent in development of our CRM to make a product that blazes through calls fast.  We used that for about a year or two then I stumbled on because our in-house custom CRM was having problems and we didn't have the resources to fix it so I figured I would try again.  I cannot tell you how incredibly excited I am about how amazing Stop logging calls and emails and start making them instead. truly is. This CRM is unlike any product on the market it is exactly what we wanted our in-house product to be and more.  It’s so awesome we scrapped our in house product and started exclusively using Stop logging calls and emails and start making them instead.. You do not truly have an appreciation for “next gen” this thing really is, there is literally nothing like it on the market and honestly I’m a bit shocked no one seems to get the amazing this thing is.  This is a pure sales communication tool that cuts out all the BS of a CRM and is a real actual tool that a sales person can use to increase their sales and not just some data collection thing that salespeople are forced to you.  If you actually give a go and start using it you’ll never want to use anything else if you do cold calling.  The thing seamlessly interfaces all your calls AND even all your emails!  You no longer need to be jumping in and out of outlook, you don’t need to check your outlook or Gmail calendar, and you don’t need to do anything except pull up the Stop logging calls and emails and start making them instead. and do the stuff in your inbox and make money.  It pulls in not only your tasks, and follow up meetings but it also syncs your emails and voicemail sand phone calls.  It takes every single bit of communication you do and puts it in one quick “to do list” automatically with ZERO data entry.  It’s blazing fast and it just works.   The voicemail drop thing is really dope, I can’t tell you how many times a day I find myself having to leave voice mails for people, they have this thing that you hit a button and it automatically leaves a voicemail so you can go to the next call, just amazing in terms of productivity.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "There are too many to list – If you do cold calls this is a no brainier, you need to buy it today!  It support The best apps. Better together. as well which means it hooks into hundreds of other marketing tools also.  Their support is second to none, these guys seems to be hustling hard with support, product development and just providing a kick ass experience for their customers. I recommend this product.",
+    "cons": "This thing is EXPENSIVE.. but the truth is you get what you pay for and you geta lot.  Your paying for the best and it has a price tag which clearly says it’s the best because it’s more than double the cost of other competitive products. The downside is though I have 3 team members and I’m paying close $300 to $400 a month for 3 people that’s crazy considering there are other products that do VoIp with Twillio for less than $10 a user. So I went from paying $50 a month for CRM and $80 for Twillio VoIP($180) to $300 a month.  So my prices doubled, which sucked however after using this product it is worth the extra price but if they raise the prices anymore that is just pushing because it really his priced rather high for the market it’s in.   Even the enterprise “SForce” CRMs are not as expensive as that (course those CRMssuck compared to this when it comes to cold calling).  The problem is I can’t easily scale with it.  So I’ll be stuck with a 3 users fora while where if they had it at a lower price point I would buy a license fore very one of my staff but since it’s so expensive I can’t justify it for anyone but my sales people.   I think they are missing out on revenue by not having license does not have the VoIP stuff for like $5 a user so my support team could use it without VoIP and be on par with other CRM price\n\npoints.  It’s clear though this is a nitch product for telephone sales teams.\n\nSO that being said if you do not do a lot of phone sales then this product is probably overkill for you and there are many others that are more of “client manager”type of product where this bad boy is a pure sales beast and nothing else.. It will help increase your sales without a doubt!  In terms of client management and being asingle point for all customer data it does the job but it does not really do that any better than other products out on the market for half its cost.  It’s really the phone cold calling stuff is what makes it so awesome so if any other CRM companies ever figure this out and try to clone/copy it they will have some real competition but so far there is nothing like it and I would buy all over again!  Also I really never write reviews either so the fact I’m even doing this speaks to much this thing rocks!"
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Best CRM for managing relationships",
+    "description": "Comments:Love how simple Close.IO is.  There's one list of contacts , and then an infinite ways of segmenting the data after that in powerful ways.  It's a very powerful concept, and they do it in a way that makes it super easy to manage lists of leads/clients/whatever, and to help make sure you're on top of it.  They do this, however, in my opinion, by sacrificing features available in other top CRMs, some that seem like they should just be there.  For us it has been worthwhile nonetheless.",
+    "date": "9 years ago",
+    "rating": 4,
+    "pros": "By far the easiest and most intuitive way to manage relationships that I've come across.  If it's a big struggle for you to have a bunch of lists of leads, and with your limited time you struggle to stay on top of each and every one of them, then Close.IO is awesome.  It has helped us make sure none fall through the cracks, and does that in a way where I don't have to think about it.  It just lets me know.  Integration through Zapier also brings it to another level of automating workflows.",
+    "cons": "It's missing some features that other CRMs have, especially for the price.  Although the 'smart views' (how you segment the contacts into different lists) is really really awesome and VERY powerful, there are some limitations that sound like should be there but are just missing (e.g. having different default columns per 'smart view', which sounds like a given to me since someone cares about different data depending on if the contact is a cold lead, qualified lead, or client).  Instead now I have a bunch of columns that some people within my company don't care about but are just confusing to them.\n\nAlso, you have to get the pro/business to get several features that I initially expected would be part of the main one, e.g. there's not a single report that can draw a graph to visually get at-a-glance info of any kind in the basic version.  They also don't post their roadmap openly, so I have no idea what features will be coming.\n\nSo in this respect it feels slightly like an incomplete product, but as mentioned, worth it for how incredibly well they execute the main function we need it for (effectively managing relationships/lists of contacts for both sales and client relationships)."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Not a CRM",
+    "description": "Comments:In the end it's very expensive for a bulk lead calling tool.",
+    "date": "6 years ago",
+    "rating": 5,
+    "pros": "This is a great tool if you are just bulk burning through new biz leads and have a fast sales cycle.  the calling through Close.io is great, call recording great, ability to create custom lists for lead calling also great",
+    "cons": "This is not a CRM period!  I would only recommend this if you were integrating it with a dedicated CRM system.  The notes are chaotic and very difficult to look back through history and find important past conversations.  There is no ability to do ANY form of contract management once a customer is closed and there is also no ability to attach anything to the opportunity info.  So if you have a relevant presentation or any documentation relevant to a potential sale you best save it in a google drive and make a custom field to stick the link in."
+  },
+  {
+    "reviewerName": "Varun",
+    "title": "The best CRM for the sales team to do the cold calling at an ease.",
+    "description": "",
+    "date": "6 years ago",
+    "rating": 4,
+    "pros": "We use pipedrive for email marketing and Close.io for cold calling. Our system works like this. Our marketing team use pipedrive to send out email to possible leads and follow up with them and when it results in a successful response from the prospect the sales team collects the phone numbers. Then these prospects with phone numbers have been downloaded to csv and transferred to Close.io CRM for sales team. Then they do all the cold calling with in Close.io CRM. Our department also have access to this CRM to make support calls later on. We can say our sales team's productivity has increased a lot after implementing this CRM. They do not need to manually do the sorting and recording of calls made and everything can be done in settings just one time.",
+    "cons": "When importing the prospects from a CSV if there are duplicates in the file, it doesn't detect that and gets added just like an other contact. There are no option to segment the contact in to different categories."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Great functionality. But you can lose access anytime",
+    "description": "Comments:This is a great platform. But I do not recommend it to anyone. If you are interested in good CRM then try PipeDrive. They don't have a few things, but their technical support will solve all your problems. They also do a lot of custom free stuff. And you can safely store 1M + contacts.",
+    "date": "6 years ago",
+    "rating": 1,
+    "pros": "Awesome UI\nBest filtration and search\nNothing extra\nNot overloaded\nVery fast",
+    "cons": "If your database more than 100K contacts, you will be disconnected, because you will ....\"impacted our infrastructure\"....  When you try to solve a problem and chat with technical support, you will be ignored.\n\nBut there is no public limitation. Try to use. Are you lucky? Maybe not and your work will be suspended immediately. And then you will long try to switch to another platform without any help from those support. Maximum you will have a day."
+  },
+  {
+    "reviewerName": "Chuck",
+    "title": "First thougths on new software",
+    "description": "Comments:I am just beginning to use it so this is an initial review.  So far I have found it simple to learn and effective in lead and customer management.",
+    "date": "2 years ago",
+    "rating": 5,
+    "pros": "Sequencing, calling from the software, activity tracking, call recording, relative simplicity to use",
+    "cons": "no comment yet, i am just beginning to use it"
+  },
+  {
+    "reviewerName": "Jim",
+    "title": "Best out there",
+    "description": "",
+    "date": "4 years ago",
+    "rating": 5,
+    "pros": "Love it for all businesses I have worked in.  I literally have my own Personal Close I use that I bring when I take a contract, so I don't have to use something else. It is part of my working life now  - Easy deployment (Even when Microsoft tries to ruin everything for you), Simple and easy, can opt into great features if you need it, export your leads, whatever it is - It is software that has clearly been made by someone who was in Business Development. The amount of time I save not having to manually document how much work I have done...Makes me more successful.",
+    "cons": "Nothing - it is great - A small deployment issue once, but that was 100% Microsofts fault. The reps were great at fixing it."
+  },
+  {
+    "reviewerName": "Linus",
+    "title": "Awesome product with a great search centric approach",
+    "description": "Comments:At Duma Works, a Kenya based recruitment startup, we use close.io to keep track of all of our customer relations, existing and potential. Apart from that we're also using it as a multi-tool for everything from fundraising to recruitment. The search centric approach makes it easy to create any type of customised list of leads and treat them differently based on their unique characteristics. The ability to add custom fields to all leads in combination with the bulk email feature makes it possible to easily send hundreds of personalised emails in seconds. I would recommend close.io to anyone who wants to maintain and grow a database of contacts, be it customers, candidates or investors.",
+    "date": "10 years ago",
+    "rating": 4,
+    "pros": "- Easy to create customised lead views and send personalised bulk emails\n- Stripped down feature set, only contains what's necessary\n- Extremely easy to get started, no advanced setup necessary\n- Great support and response time from the team at close.io",
+    "cons": "- I lack the ability to track meetings, it's the only part of the sales funnel that I can't follow up on\n- I lack the ability to mark notifications as unread"
+  },
+  {
+    "reviewerName": "Isaiah",
+    "title": "A modern and functional touch to CRM",
+    "description": "",
+    "date": "7 years ago",
+    "rating": 5,
+    "pros": "Coming from Salesforce and other CRM services, Close.io shines a much needed light for our sales team. They follow industry standards and have every feature that I've been used to having. I incredibly appreciate the ability to call and track phone calls directly from the app.",
+    "cons": "The desktop app is where it's all at, but I would appreciate a more fine-tuned web and mobile app considering what we pay and what other services offer."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Will you marry me?",
+    "description": "Comments:I LOVE this solution. It's extremely flexible which is crucial for our company of 80. With our HQ in Europe, and a sales team poised to expand rapidly worldwide, we needed the ability to \"speak\" to each other by having access to all leads in the system and their history. Right now we are piloting Close.io here in the U.S. with a couple of sales people also trying it in Europe. We integrated our incoming leads from our system into close.io via Zapier and all communication via Gmail. It was a snap! Also, the support team can CC or BCC close.io on crucial matters via the ticket system and sales can now see all important transactions in one place. Just in a few short months Sales productivity has changed dramatically, and basically, I'm a happier person, which is good for everyone!",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "Easy to use interface. Nice upgrade with the html in the email function! Integration with the phone is great!",
+    "cons": "Fix the Tasks function to be more user friendly. allow us the hide the custom fields so we don't need to scroll through them all when assigning data."
+  },
+  {
+    "reviewerName": "Ali",
+    "title": "Increases the chance of closing a deal",
+    "description": "Comments:My team and I began using Close.io to close deals via the calling & Email features they have implemented into the software. We imported our leads very easily, and managed to start closing deals with potential clients. Close.io is a unique product that allows you to manage multiple streams that increases the chance of closing a deal.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "Calling feature, Tracked emails, Work with multiple team members on closing deals. \nBiggest feature is the app you can download via the app store or from the close.io website, makes things super easy to manage. The Smart views and sorting filters are very useful in managing multiple leads.\n\nThe support team is incredible! I've never experienced such support with any other company.",
+    "cons": "Only issue I ran into is when grouping leads under a specific category which has to be done manually in the spreadsheets, but I spoke with the support team and gave me step by step to resolve this issue."
+  },
+  {
+    "reviewerName": "Jeffrey",
+    "title": "Great CRM",
+    "description": "Comments:Overall my experience with Close has been a positive one. Customer service is responsive.",
+    "date": "4 years ago",
+    "rating": 4,
+    "pros": "The pros are that is a pretty straight forward CRM to use. It integrates well with many other applications.",
+    "cons": "Overall, I cannot really think of any cons. It gets the job done as a reasonably priced CRM. It does not have as many features as salesforce but for the price its great."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Great CRM for smaller businesses",
+    "description": "",
+    "date": "7 years ago",
+    "rating": 5,
+    "pros": "I like the cost above all else. We used a more expensive CRM for a while and were thrilled to find out about Close.io and its low price in comparison. The platform is also a lot simpler to use than other popular CRMs like SalesForce and Dynamics.",
+    "cons": "There isn't much to dislike about the platform. There could be some additional features to make activities simpler but that's not really anything against the platform, in my opinion."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Best CRM EVER!",
+    "description": "Comments:Close.io has been great from the start. Getting setup was easy and migrating our data from our previous CRM was simple. We are now able to monitor all outreach metrics in real time and close more deals with close.io",
+    "date": "6 years ago",
+    "rating": 5,
+    "pros": "Close.io is every sales teams dream! Its super simple but extremely powerful! It has everything you need to effectively close deals daily and keeps you on track with very little effort.",
+    "cons": "I wish there was a two record type Leads and Accounts. There is a work around but my personal preference is a clear distinction between leads and accounts."
+  },
+  {
+    "reviewerName": "Joshua",
+    "title": "It's like magic",
+    "description": "Comments:We have a startup focused in ticket sales for events in Mexico. We were looking for in-depth data of our salesmen and to make easier for them to keep track of their clients by client type. We used a CRM (highrise), but the data it gave us was no longer enough to know more about whether the size and type of clients - and opportunities - our sales team were generating was the right kind given our current strategy.We initially requested a trial by importing a subset of random data of our former CRM but we felt this was not useful, because not all of those imported leads were relevant to us at the moment. When support from close.io gave us the option to extend our trial period, we deleted all of the previous leads and instead started adding new leads into the platform. That's when we notice the main strong point of close.io: by adding our first lead's email, within seconds we had a full history of each email we exchanged in the past. The desktop app works like a charm. Also, when you have a small sales team like ours, it's great to add a lead and check if one of your teammates already make a contact. Finally, it's amazing how easy is to categorize leads, we even use it to keep track of investors, allies and competitors. The call feature is also a huge breath of fresh air into a follow-up process. The fact you can make calls straight from the app, that those calls get recorded and also get tracked into a lead's history ensures automatic track of almost every kind of interaction with a lead. In our case, although we tried it and it worked great, we won't make use of it because our small office space forces us to do calls by getting outside the office, and given our internet connection is not that solid we will keep making calls the way we are right now and evaluate a full switch later.In a few words: if you have a small sales team and you want to make them doing more closing and less data insertion into follow-up tools, consider switching to close.io",
+    "date": "10 years ago",
+    "rating": 4,
+    "pros": "The email auto-tracking is by far the the tool of close.io. The fact you can create a lead and it automatically brings all of the history of emails you exchanged with them gives a lot more insight and visibility into salesman follow-up performance. Also, the call feature; if you have a strong internet connection, and especially if you're a startup and your salespeople is constantly on the run. Support also responds very quickly to feedback, which made a lot easier the switch from our former CRM.",
+    "cons": "For our business, it´s very important to do bulk imports. However, the tool does not let you to opt out of duplicating leads, which makes us take longer to \"curate\" each file we want to import."
+  },
+  {
+    "reviewerName": "Tony",
+    "title": "Close.com Can Make Your Business Run Efficiently and Problem Free",
+    "description": "Comments:We had another CRM system that was a lot more expensive and not very easy to use. Close.com is just a pure pleasure to work with and the entire team here is thrilled with it.",
+    "date": "3 years ago",
+    "rating": 5,
+    "pros": "Platform is very easy to use and all employees just loved it the minute they tried it out.  We all wonder why we didn't get this sooner.  Close.com is also fun to use and everything is at your fingertips. Program works fast and makes the customer ticket system very efficient.",
+    "cons": "No cons at all. I mean it.  This program Rocks:)"
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Most your organization will ask, \"why aren't we using Salesforce?\"",
+    "description": "Comments:Skip it.",
+    "date": "6 years ago",
+    "rating": 3,
+    "pros": "Great if you have the patience and developments resources to help you customize everything. API is good, but for most non-enterprise organizations, who has time to be messing with APIs? Built in VoIP is a nice feature, but do your math and make sure the price is worth it.",
+    "cons": "- Searching for data is near impossible. Can't filter for anything logically without getting into \"raw queries,\" so you better be half an engineer if you want to search for anything.\n- Reporting is a joke. The reporting tools might as well not exist. Be prepared to ask developers to leverage the API and sync into some other tool.\n- No matter what they may sell you, it's a CRM best used with small sales teams. It's not for account management or companies that expect anyone without an engineering degree to figure out how to analyze the data inside of it."
+  },
+  {
+    "reviewerName": "Alexander",
+    "title": "Close is great for startup sales but lacks some simple features",
+    "description": "Comments:Overall it's been a good but not great experience. The basics are covered for a CRM but some what seems like basic features are still missing.",
+    "date": "5 years ago",
+    "rating": 4,
+    "pros": "I love the automated email sequences to help with my outbound prospecting efforts. This enables me to 'set it and forget it\" to ensure proper follow up is happening with prospects.",
+    "cons": "I don't like that you can't map specific email chains to specific opportunities. Furthermore,  you can't upload files which is a real drawback and support suggested I just link to google shared drives."
+  },
+  {
+    "reviewerName": "Anna",
+    "title": "Close.io for therapists, tutors and coaches",
+    "description": "Comments:I have been looking at various CRM's for my private practice. I provide online therapy for speech, language and learning. Close.io impressed me with its rich features and customizations. I loved the fact that Close.io works perfectly for one person. So many of the other CRMs are for sales teams.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "Everything functioned flawlessly on the first try. I was able to set it up to use my domain name email. I imported all my contacts from Gmail. I could add customizations that would make it easy to keep track of my clients. \n\nThe search function knocked my socks off! I couldn't remember the name of a certain funding agency. Just by entering the client's name, it gave me the funding agency.\n\nClose.io was created for people trying to make an initial sale. I keep my clients three or four years and they often need a break from therapy for a few months. It was easy for me to give clients a status, such as \"paused\" or \"completed goals\".\n\nI was able to collect leads from my Wordpress website using Planso Forms. These create a new lead in Close.io.\n\nThe options to add a phone line and bulk email surprised me. I haven't seen this in any other CRMs. I can create email templates and send out messages to groups of people using my domain name email. The messages are plain text, which is just right for smart phones. \n\nI tried out the phone function on my computer. I have been using Magic Jack, and getting complaints from clients about MJ. The Close.io phone line is from Twilio and is much clearer. By installing the app on my phone, I can have a second phone number on my cell and I don't have to give clients my personal number.",
+    "cons": "I'm in Canada. I wish the price wasn't so high, especially with the exchange rate.  \n\nAs an online therapy provider, I also have to pay for a telepractice platform and an online scheduler. If Close.io offered integration with Verishow and Accuity Scheduling, they would be able to offer a complete virtual office for online therapists, tutors, and coaches."
+  },
+  {
+    "reviewerName": "Pruthvi",
+    "title": "Great CRM",
+    "description": "",
+    "date": "2 years ago",
+    "rating": 4,
+    "pros": "Integrates into other platforms easily. Great to use",
+    "cons": "Not so user-friendly. UI & UX could be better"
+  },
+  {
+    "reviewerName": "Nick",
+    "title": "A modern sales platform optimized for outreach",
+    "description": "Comments:While Close.io is a CRM by definition, I consider it more of a sales platform. I consider it as a platform because of it's flexible and rich API that allows you to customize any component. Close.io is a fantastic tool that teams should use for interacting with their customers. With built-in call and email integration, Close.io is designed for salesperson outreach. It eliminates unnecessary data entry, and is the perfect companion for any sales team using the \"Predictable Revenue\" (A book by Aaron Ross) approach to sales. All activity (calls, emails, lead status changes) is automatically tracked, leaving the sales rep to just write contextual notes for each activity.The automatic tracking of activity leads sales managers to easily determine how much activity yields certain sales results. Those answers are the holy grail when it comes to building a scalable sales process.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "- Built-in call and email integration.\n- Flexible and powerful API w/ great documentation.\n- Dynamic lead lists (called \"Smart Views\") powered through search.\n- Native Mac and WIndows apps.\n- Responsive support team.\n- Custom fields",
+    "cons": "- Costly for budget conscious teams. (But not less expensive than Salesforce and like platforms)\n- No native mobile apps yet. (Not recommended for outside sales teams)"
+  },
+  {
+    "reviewerName": "James",
+    "title": "Best CRM I've had the pleasure of using",
+    "description": "Comments:Close.io has been a huge help to our small B2B sales department. Before close.io we were using multiple programs to email, call, track, notate, and manage customers. It was a mess!!! Now we can do everything within the app itself. No more transferring information from one source to the other.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "The features that helped us the most:\n\n-real-time integration with gmail. We send and receive all our email through the app. Besides being more convenient it also keeps all correspondence logged in an easy to reference way. \n-recorded calls - all calls and voice-mails are automatically listed right along with notes and emails. This is incredibly useful with longer sales cycles. We are able to go back and actually hear what the customer said on the call two months ago. So much better than just notes, especially if there is every a disagreement.  \n- Support is amazing. Always very responsive and timely and walked us through our limited implementation issues, (see below). Additionally, they are always improving the app, so about the time I suggest an option I'd like to see it is already slated to be rolled out.",
+    "cons": "Not really any cons to speak of, but we had a couple issues at first:\n\n- call quality was poor. This was due to trying to use a wireless connection and after switching everyone over to wired, it went away. So while not an app problem, something to consider if you or your team work remotely.\n\n-Some merging issues when pulling lead data from our web form. Again, this was not an app problem so much as a developer problem on our end, but it was a headache for a couple days none the less."
+  },
+  {
+    "reviewerName": "Jordan",
+    "title": "Rigid structure means only certain sales processes fit (adaptations to all processes are necessary to use effectively)",
+    "description": "Comments:Overall, Close.io is a B2B CRM where each client has only a few main contacts and they all go through a specific, well-defined process, regardless of whether or not the deal is closed.It's a very expensive platform, especially if you want calling features, so keep that in mind. My two cents: you should assess how well Close.io meets your needs before deciding that this is the right CRM (vs. a different CRM or a custom CRM if you're at higher volumes). Once you decide that it's worth exploring, my recommendation is to figure out how much you'll be paying in annual costs vs. a custom CRM implementation. Close.io pretty much won't prioritize features for you, so if you need anything custom done, I recommend going somewhere else.",
+    "date": "8 years ago",
+    "rating": 4,
+    "pros": "- Easy to get started\n- Easy to import leads\n- Easy to keep track of how everyone at your organization is interacting with the client\n- Pretty simple, but effective reporting",
+    "cons": "- Expensive\n- Low quality call audio\n- Low customization\n- Rigid sales structure set-up"
+  },
+  {
+    "reviewerName": "JASON",
+    "title": "The future looks bright with Close.IO",
+    "description": "Comments:I have used Close.IO at my past company and this is the only CRM that I can endorse. When I told my team that I was going to update the current CRM tool I was met with a lot of questions and concerns. After showing the video on the Close.IO site and taking questions for about 20 mins my team was buying into the idea of changing over. I was also able to prove to them that there would be a minimum of an hour that each of them would save a day, so that peaked their interest. Then as we ramped up for the change the nervousness kicked in again, so I made sure to stage the rollout in an effort to handle all questions in a controlled manner and prepare for more users. The employees were blown away by the ease of use! And I was impressed at just how smooth it all went. Being a tech guy my learning curve is quick, but from employees in their 20's-50's we had a hugely successful transition into Close.IO.While my team is still early in the game, about 3 weeks into Close, we are seeing AMAZING results. One of my sales guys is up 50% in his personal sales! Others are up 10-20%. My entire team has said that they cannot wait to see what the future holds as we are continuing to find more ways to improve our process. Close.IO has convinced my team that it is the choice CRM tool.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "Automation and their inbox is a huge pro. \nTheir search feature is arguably the best anyone could ask for. We are still discovering search tricks. GREAT ROI!\nA great help page on the Close.IO site for finding suggestions and troubleshooting.",
+    "cons": "We did have a tough time with our firewall when first setting up Close.IO, so make sure to include your Network Admin in the conversation of switching to Close.IO early on in the process. \nSometimes getting someone on the phone can be a challenge, but email and scheduling a call have never been a problem."
+  },
+  {
+    "reviewerName": "Jayne",
+    "title": "It does the job - but not the best on the market by far",
+    "description": "Comments:If you do not heavily rely on a CRM system and just need a place to lightly store things to check on between departments without having to spend a lot of time training your users, then Close is a good call. However, if you need an in-depth CRM system that helps to manage a pipeline down to the details and has a very organized or detailed structure for viewing accounts, I think there are better options on the market.",
+    "date": "2 years ago",
+    "rating": 4,
+    "pros": "Very clean UX/UI and easy to use and navigate, everything is sort of \"on one page\" so you don't really need to scour around or click on weirdly/technical verbiage-marked buttons.",
+    "cons": "It's actually almost too simple to the point that it can begin to feel cluttered. You can too easily create multiple entries because of how the integrations are set up, so it's not always clear what the \"right\" profile is. Similarly, there's very little tracking of progression, it's quite rudimentary in that sense."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Highly Recommend It",
+    "description": "Comments:I can tell you that I have used over 20 different CRM systems over the past 10 years. We do a tone of cold calling and we need to just blaze through calls fast and I never could find CRM that allowed us to do this.  I was so frustrated that I needed up even creating our own CRM just to do this very thing.  I can’t tell you how much money I spent in development of our CRM to make a product that blazes through calls fast.  We used that for about a year or two then I stumbled on because our in-house custom CRM was having problems and we didn't have the resources to fix it so I figured I would try again.  I cannot tell you how incredibly excited I am about how amazing Stop logging calls and emails and start making them instead. truly is. This CRM is unlike any product on the market it is exactly what we wanted our in-house product to be and more.  It’s so awesome we scrapped our in house product and started exclusively using Stop logging calls and emails and start making them instead.. You do not truly have an appreciation for “next gen” this thing really is, there is literally nothing like it on the market and honestly I’m a bit shocked no one seems to get the amazing this thing is.  This is a pure sales communication tool that cuts out all the BS of a CRM and is a real actual tool that a sales person can use to increase their sales and not just some data collection thing that salespeople are forced to you.  If you actually give a go and start using it you’ll never want to use anything else if you do cold calling.  The thing seamlessly interfaces all your calls AND even all your emails!  You no longer need to be jumping in and out of outlook, you don’t need to check your outlook or Gmail calendar, and you don’t need to do anything except pull up the Stop logging calls and emails and start making them instead. and do the stuff in your inbox and make money.  It pulls in not only your tasks, and follow up meetings but it also syncs your emails and voicemail sand phone calls.  It takes every single bit of communication you do and puts it in one quick “to do list” automatically with ZERO data entry.  It’s blazing fast and it just works.   The voicemail drop thing is really dope, I can’t tell you how many times a day I find myself having to leave voice mails for people, they have this thing that you hit a button and it automatically leaves a voicemail so you can go to the next call, just amazing in terms of productivity.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "There are too many to list – If you do cold calls this is a no brainier, you need to buy it today!  It support The best apps. Better together. as well which means it hooks into hundreds of other marketing tools also.  Their support is second to none, these guys seems to be hustling hard with support, product development and just providing a kick ass experience for their customers. I recommend this product.",
+    "cons": "This thing is EXPENSIVE.. but the truth is you get what you pay for and you geta lot.  Your paying for the best and it has a price tag which clearly says it’s the best because it’s more than double the cost of other competitive products. The downside is though I have 3 team members and I’m paying close $300 to $400 a month for 3 people that’s crazy considering there are other products that do VoIp with Twillio for less than $10 a user. So I went from paying $50 a month for CRM and $80 for Twillio VoIP($180) to $300 a month.  So my prices doubled, which sucked however after using this product it is worth the extra price but if they raise the prices anymore that is just pushing because it really his priced rather high for the market it’s in.   Even the enterprise “SForce” CRMs are not as expensive as that (course those CRMssuck compared to this when it comes to cold calling).  The problem is I can’t easily scale with it.  So I’ll be stuck with a 3 users fora while where if they had it at a lower price point I would buy a license fore very one of my staff but since it’s so expensive I can’t justify it for anyone but my sales people.   I think they are missing out on revenue by not having license does not have the VoIP stuff for like $5 a user so my support team could use it without VoIP and be on par with other CRM price\n\npoints.  It’s clear though this is a nitch product for telephone sales teams.\n\nSO that being said if you do not do a lot of phone sales then this product is probably overkill for you and there are many others that are more of “client manager”type of product where this bad boy is a pure sales beast and nothing else.. It will help increase your sales without a doubt!  In terms of client management and being asingle point for all customer data it does the job but it does not really do that any better than other products out on the market for half its cost.  It’s really the phone cold calling stuff is what makes it so awesome so if any other CRM companies ever figure this out and try to clone/copy it they will have some real competition but so far there is nothing like it and I would buy all over again!  Also I really never write reviews either so the fact I’m even doing this speaks to much this thing rocks!"
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Best CRM for managing relationships",
+    "description": "Comments:Love how simple Close.IO is.  There's one list of contacts , and then an infinite ways of segmenting the data after that in powerful ways.  It's a very powerful concept, and they do it in a way that makes it super easy to manage lists of leads/clients/whatever, and to help make sure you're on top of it.  They do this, however, in my opinion, by sacrificing features available in other top CRMs, some that seem like they should just be there.  For us it has been worthwhile nonetheless.",
+    "date": "9 years ago",
+    "rating": 4,
+    "pros": "By far the easiest and most intuitive way to manage relationships that I've come across.  If it's a big struggle for you to have a bunch of lists of leads, and with your limited time you struggle to stay on top of each and every one of them, then Close.IO is awesome.  It has helped us make sure none fall through the cracks, and does that in a way where I don't have to think about it.  It just lets me know.  Integration through Zapier also brings it to another level of automating workflows.",
+    "cons": "It's missing some features that other CRMs have, especially for the price.  Although the 'smart views' (how you segment the contacts into different lists) is really really awesome and VERY powerful, there are some limitations that sound like should be there but are just missing (e.g. having different default columns per 'smart view', which sounds like a given to me since someone cares about different data depending on if the contact is a cold lead, qualified lead, or client).  Instead now I have a bunch of columns that some people within my company don't care about but are just confusing to them.\n\nAlso, you have to get the pro/business to get several features that I initially expected would be part of the main one, e.g. there's not a single report that can draw a graph to visually get at-a-glance info of any kind in the basic version.  They also don't post their roadmap openly, so I have no idea what features will be coming.\n\nSo in this respect it feels slightly like an incomplete product, but as mentioned, worth it for how incredibly well they execute the main function we need it for (effectively managing relationships/lists of contacts for both sales and client relationships)."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Not a CRM",
+    "description": "Comments:In the end it's very expensive for a bulk lead calling tool.",
+    "date": "6 years ago",
+    "rating": 5,
+    "pros": "This is a great tool if you are just bulk burning through new biz leads and have a fast sales cycle.  the calling through Close.io is great, call recording great, ability to create custom lists for lead calling also great",
+    "cons": "This is not a CRM period!  I would only recommend this if you were integrating it with a dedicated CRM system.  The notes are chaotic and very difficult to look back through history and find important past conversations.  There is no ability to do ANY form of contract management once a customer is closed and there is also no ability to attach anything to the opportunity info.  So if you have a relevant presentation or any documentation relevant to a potential sale you best save it in a google drive and make a custom field to stick the link in."
+  },
+  {
+    "reviewerName": "Varun",
+    "title": "The best CRM for the sales team to do the cold calling at an ease.",
+    "description": "",
+    "date": "6 years ago",
+    "rating": 4,
+    "pros": "We use pipedrive for email marketing and Close.io for cold calling. Our system works like this. Our marketing team use pipedrive to send out email to possible leads and follow up with them and when it results in a successful response from the prospect the sales team collects the phone numbers. Then these prospects with phone numbers have been downloaded to csv and transferred to Close.io CRM for sales team. Then they do all the cold calling with in Close.io CRM. Our department also have access to this CRM to make support calls later on. We can say our sales team's productivity has increased a lot after implementing this CRM. They do not need to manually do the sorting and recording of calls made and everything can be done in settings just one time.",
+    "cons": "When importing the prospects from a CSV if there are duplicates in the file, it doesn't detect that and gets added just like an other contact. There are no option to segment the contact in to different categories."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Great functionality. But you can lose access anytime",
+    "description": "Comments:This is a great platform. But I do not recommend it to anyone. If you are interested in good CRM then try PipeDrive. They don't have a few things, but their technical support will solve all your problems. They also do a lot of custom free stuff. And you can safely store 1M + contacts.",
+    "date": "6 years ago",
+    "rating": 1,
+    "pros": "Awesome UI\nBest filtration and search\nNothing extra\nNot overloaded\nVery fast",
+    "cons": "If your database more than 100K contacts, you will be disconnected, because you will ....\"impacted our infrastructure\"....  When you try to solve a problem and chat with technical support, you will be ignored.\n\nBut there is no public limitation. Try to use. Are you lucky? Maybe not and your work will be suspended immediately. And then you will long try to switch to another platform without any help from those support. Maximum you will have a day."
+  },
+  {
+    "reviewerName": "Chuck",
+    "title": "First thougths on new software",
+    "description": "Comments:I am just beginning to use it so this is an initial review.  So far I have found it simple to learn and effective in lead and customer management.",
+    "date": "2 years ago",
+    "rating": 5,
+    "pros": "Sequencing, calling from the software, activity tracking, call recording, relative simplicity to use",
+    "cons": "no comment yet, i am just beginning to use it"
+  },
+  {
+    "reviewerName": "Jim",
+    "title": "Best out there",
+    "description": "",
+    "date": "4 years ago",
+    "rating": 5,
+    "pros": "Love it for all businesses I have worked in.  I literally have my own Personal Close I use that I bring when I take a contract, so I don't have to use something else. It is part of my working life now  - Easy deployment (Even when Microsoft tries to ruin everything for you), Simple and easy, can opt into great features if you need it, export your leads, whatever it is - It is software that has clearly been made by someone who was in Business Development. The amount of time I save not having to manually document how much work I have done...Makes me more successful.",
+    "cons": "Nothing - it is great - A small deployment issue once, but that was 100% Microsofts fault. The reps were great at fixing it."
+  },
+  {
+    "reviewerName": "Linus",
+    "title": "Awesome product with a great search centric approach",
+    "description": "Comments:At Duma Works, a Kenya based recruitment startup, we use close.io to keep track of all of our customer relations, existing and potential. Apart from that we're also using it as a multi-tool for everything from fundraising to recruitment. The search centric approach makes it easy to create any type of customised list of leads and treat them differently based on their unique characteristics. The ability to add custom fields to all leads in combination with the bulk email feature makes it possible to easily send hundreds of personalised emails in seconds. I would recommend close.io to anyone who wants to maintain and grow a database of contacts, be it customers, candidates or investors.",
+    "date": "10 years ago",
+    "rating": 4,
+    "pros": "- Easy to create customised lead views and send personalised bulk emails\n- Stripped down feature set, only contains what's necessary\n- Extremely easy to get started, no advanced setup necessary\n- Great support and response time from the team at close.io",
+    "cons": "- I lack the ability to track meetings, it's the only part of the sales funnel that I can't follow up on\n- I lack the ability to mark notifications as unread"
+  },
+  {
+    "reviewerName": "Isaiah",
+    "title": "A modern and functional touch to CRM",
+    "description": "",
+    "date": "7 years ago",
+    "rating": 5,
+    "pros": "Coming from Salesforce and other CRM services, Close.io shines a much needed light for our sales team. They follow industry standards and have every feature that I've been used to having. I incredibly appreciate the ability to call and track phone calls directly from the app.",
+    "cons": "The desktop app is where it's all at, but I would appreciate a more fine-tuned web and mobile app considering what we pay and what other services offer."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Will you marry me?",
+    "description": "Comments:I LOVE this solution. It's extremely flexible which is crucial for our company of 80. With our HQ in Europe, and a sales team poised to expand rapidly worldwide, we needed the ability to \"speak\" to each other by having access to all leads in the system and their history. Right now we are piloting Close.io here in the U.S. with a couple of sales people also trying it in Europe. We integrated our incoming leads from our system into close.io via Zapier and all communication via Gmail. It was a snap! Also, the support team can CC or BCC close.io on crucial matters via the ticket system and sales can now see all important transactions in one place. Just in a few short months Sales productivity has changed dramatically, and basically, I'm a happier person, which is good for everyone!",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "Easy to use interface. Nice upgrade with the html in the email function! Integration with the phone is great!",
+    "cons": "Fix the Tasks function to be more user friendly. allow us the hide the custom fields so we don't need to scroll through them all when assigning data."
+  },
+  {
+    "reviewerName": "Ali",
+    "title": "Increases the chance of closing a deal",
+    "description": "Comments:My team and I began using Close.io to close deals via the calling & Email features they have implemented into the software. We imported our leads very easily, and managed to start closing deals with potential clients. Close.io is a unique product that allows you to manage multiple streams that increases the chance of closing a deal.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "Calling feature, Tracked emails, Work with multiple team members on closing deals. \nBiggest feature is the app you can download via the app store or from the close.io website, makes things super easy to manage. The Smart views and sorting filters are very useful in managing multiple leads.\n\nThe support team is incredible! I've never experienced such support with any other company.",
+    "cons": "Only issue I ran into is when grouping leads under a specific category which has to be done manually in the spreadsheets, but I spoke with the support team and gave me step by step to resolve this issue."
+  },
+  {
+    "reviewerName": "Jeffrey",
+    "title": "Great CRM",
+    "description": "Comments:Overall my experience with Close has been a positive one. Customer service is responsive.",
+    "date": "4 years ago",
+    "rating": 4,
+    "pros": "The pros are that is a pretty straight forward CRM to use. It integrates well with many other applications.",
+    "cons": "Overall, I cannot really think of any cons. It gets the job done as a reasonably priced CRM. It does not have as many features as salesforce but for the price its great."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Great CRM for smaller businesses",
+    "description": "",
+    "date": "7 years ago",
+    "rating": 5,
+    "pros": "I like the cost above all else. We used a more expensive CRM for a while and were thrilled to find out about Close.io and its low price in comparison. The platform is also a lot simpler to use than other popular CRMs like SalesForce and Dynamics.",
+    "cons": "There isn't much to dislike about the platform. There could be some additional features to make activities simpler but that's not really anything against the platform, in my opinion."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Best CRM EVER!",
+    "description": "Comments:Close.io has been great from the start. Getting setup was easy and migrating our data from our previous CRM was simple. We are now able to monitor all outreach metrics in real time and close more deals with close.io",
+    "date": "6 years ago",
+    "rating": 5,
+    "pros": "Close.io is every sales teams dream! Its super simple but extremely powerful! It has everything you need to effectively close deals daily and keeps you on track with very little effort.",
+    "cons": "I wish there was a two record type Leads and Accounts. There is a work around but my personal preference is a clear distinction between leads and accounts."
+  },
+  {
+    "reviewerName": "Joshua",
+    "title": "It's like magic",
+    "description": "Comments:We have a startup focused in ticket sales for events in Mexico. We were looking for in-depth data of our salesmen and to make easier for them to keep track of their clients by client type. We used a CRM (highrise), but the data it gave us was no longer enough to know more about whether the size and type of clients - and opportunities - our sales team were generating was the right kind given our current strategy.We initially requested a trial by importing a subset of random data of our former CRM but we felt this was not useful, because not all of those imported leads were relevant to us at the moment. When support from close.io gave us the option to extend our trial period, we deleted all of the previous leads and instead started adding new leads into the platform. That's when we notice the main strong point of close.io: by adding our first lead's email, within seconds we had a full history of each email we exchanged in the past. The desktop app works like a charm. Also, when you have a small sales team like ours, it's great to add a lead and check if one of your teammates already make a contact. Finally, it's amazing how easy is to categorize leads, we even use it to keep track of investors, allies and competitors. The call feature is also a huge breath of fresh air into a follow-up process. The fact you can make calls straight from the app, that those calls get recorded and also get tracked into a lead's history ensures automatic track of almost every kind of interaction with a lead. In our case, although we tried it and it worked great, we won't make use of it because our small office space forces us to do calls by getting outside the office, and given our internet connection is not that solid we will keep making calls the way we are right now and evaluate a full switch later.In a few words: if you have a small sales team and you want to make them doing more closing and less data insertion into follow-up tools, consider switching to close.io",
+    "date": "10 years ago",
+    "rating": 4,
+    "pros": "The email auto-tracking is by far the the tool of close.io. The fact you can create a lead and it automatically brings all of the history of emails you exchanged with them gives a lot more insight and visibility into salesman follow-up performance. Also, the call feature; if you have a strong internet connection, and especially if you're a startup and your salespeople is constantly on the run. Support also responds very quickly to feedback, which made a lot easier the switch from our former CRM.",
+    "cons": "For our business, it´s very important to do bulk imports. However, the tool does not let you to opt out of duplicating leads, which makes us take longer to \"curate\" each file we want to import."
+  },
+  {
+    "reviewerName": "Tony",
+    "title": "Close.com Can Make Your Business Run Efficiently and Problem Free",
+    "description": "Comments:We had another CRM system that was a lot more expensive and not very easy to use. Close.com is just a pure pleasure to work with and the entire team here is thrilled with it.",
+    "date": "3 years ago",
+    "rating": 5,
+    "pros": "Platform is very easy to use and all employees just loved it the minute they tried it out.  We all wonder why we didn't get this sooner.  Close.com is also fun to use and everything is at your fingertips. Program works fast and makes the customer ticket system very efficient.",
+    "cons": "No cons at all. I mean it.  This program Rocks:)"
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Most your organization will ask, \"why aren't we using Salesforce?\"",
+    "description": "Comments:Skip it.",
+    "date": "6 years ago",
+    "rating": 3,
+    "pros": "Great if you have the patience and developments resources to help you customize everything. API is good, but for most non-enterprise organizations, who has time to be messing with APIs? Built in VoIP is a nice feature, but do your math and make sure the price is worth it.",
+    "cons": "- Searching for data is near impossible. Can't filter for anything logically without getting into \"raw queries,\" so you better be half an engineer if you want to search for anything.\n- Reporting is a joke. The reporting tools might as well not exist. Be prepared to ask developers to leverage the API and sync into some other tool.\n- No matter what they may sell you, it's a CRM best used with small sales teams. It's not for account management or companies that expect anyone without an engineering degree to figure out how to analyze the data inside of it."
+  },
+  {
+    "reviewerName": "Alexander",
+    "title": "Close is great for startup sales but lacks some simple features",
+    "description": "Comments:Overall it's been a good but not great experience. The basics are covered for a CRM but some what seems like basic features are still missing.",
+    "date": "5 years ago",
+    "rating": 4,
+    "pros": "I love the automated email sequences to help with my outbound prospecting efforts. This enables me to 'set it and forget it\" to ensure proper follow up is happening with prospects.",
+    "cons": "I don't like that you can't map specific email chains to specific opportunities. Furthermore,  you can't upload files which is a real drawback and support suggested I just link to google shared drives."
+  },
+  {
+    "reviewerName": "Anna",
+    "title": "Close.io for therapists, tutors and coaches",
+    "description": "Comments:I have been looking at various CRM's for my private practice. I provide online therapy for speech, language and learning. Close.io impressed me with its rich features and customizations. I loved the fact that Close.io works perfectly for one person. So many of the other CRMs are for sales teams.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "Everything functioned flawlessly on the first try. I was able to set it up to use my domain name email. I imported all my contacts from Gmail. I could add customizations that would make it easy to keep track of my clients. \n\nThe search function knocked my socks off! I couldn't remember the name of a certain funding agency. Just by entering the client's name, it gave me the funding agency.\n\nClose.io was created for people trying to make an initial sale. I keep my clients three or four years and they often need a break from therapy for a few months. It was easy for me to give clients a status, such as \"paused\" or \"completed goals\".\n\nI was able to collect leads from my Wordpress website using Planso Forms. These create a new lead in Close.io.\n\nThe options to add a phone line and bulk email surprised me. I haven't seen this in any other CRMs. I can create email templates and send out messages to groups of people using my domain name email. The messages are plain text, which is just right for smart phones. \n\nI tried out the phone function on my computer. I have been using Magic Jack, and getting complaints from clients about MJ. The Close.io phone line is from Twilio and is much clearer. By installing the app on my phone, I can have a second phone number on my cell and I don't have to give clients my personal number.",
+    "cons": "I'm in Canada. I wish the price wasn't so high, especially with the exchange rate.  \n\nAs an online therapy provider, I also have to pay for a telepractice platform and an online scheduler. If Close.io offered integration with Verishow and Accuity Scheduling, they would be able to offer a complete virtual office for online therapists, tutors, and coaches."
+  },
+  {
+    "reviewerName": "Pruthvi",
+    "title": "Great CRM",
+    "description": "",
+    "date": "2 years ago",
+    "rating": 4,
+    "pros": "Integrates into other platforms easily. Great to use",
+    "cons": "Not so user-friendly. UI & UX could be better"
+  },
+  {
+    "reviewerName": "Nick",
+    "title": "A modern sales platform optimized for outreach",
+    "description": "Comments:While Close.io is a CRM by definition, I consider it more of a sales platform. I consider it as a platform because of it's flexible and rich API that allows you to customize any component. Close.io is a fantastic tool that teams should use for interacting with their customers. With built-in call and email integration, Close.io is designed for salesperson outreach. It eliminates unnecessary data entry, and is the perfect companion for any sales team using the \"Predictable Revenue\" (A book by Aaron Ross) approach to sales. All activity (calls, emails, lead status changes) is automatically tracked, leaving the sales rep to just write contextual notes for each activity.The automatic tracking of activity leads sales managers to easily determine how much activity yields certain sales results. Those answers are the holy grail when it comes to building a scalable sales process.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "- Built-in call and email integration.\n- Flexible and powerful API w/ great documentation.\n- Dynamic lead lists (called \"Smart Views\") powered through search.\n- Native Mac and WIndows apps.\n- Responsive support team.\n- Custom fields",
+    "cons": "- Costly for budget conscious teams. (But not less expensive than Salesforce and like platforms)\n- No native mobile apps yet. (Not recommended for outside sales teams)"
+  },
+  {
+    "reviewerName": "James",
+    "title": "Best CRM I've had the pleasure of using",
+    "description": "Comments:Close.io has been a huge help to our small B2B sales department. Before close.io we were using multiple programs to email, call, track, notate, and manage customers. It was a mess!!! Now we can do everything within the app itself. No more transferring information from one source to the other.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "The features that helped us the most:\n\n-real-time integration with gmail. We send and receive all our email through the app. Besides being more convenient it also keeps all correspondence logged in an easy to reference way. \n-recorded calls - all calls and voice-mails are automatically listed right along with notes and emails. This is incredibly useful with longer sales cycles. We are able to go back and actually hear what the customer said on the call two months ago. So much better than just notes, especially if there is every a disagreement.  \n- Support is amazing. Always very responsive and timely and walked us through our limited implementation issues, (see below). Additionally, they are always improving the app, so about the time I suggest an option I'd like to see it is already slated to be rolled out.",
+    "cons": "Not really any cons to speak of, but we had a couple issues at first:\n\n- call quality was poor. This was due to trying to use a wireless connection and after switching everyone over to wired, it went away. So while not an app problem, something to consider if you or your team work remotely.\n\n-Some merging issues when pulling lead data from our web form. Again, this was not an app problem so much as a developer problem on our end, but it was a headache for a couple days none the less."
+  },
+  {
+    "reviewerName": "Jordan",
+    "title": "Rigid structure means only certain sales processes fit (adaptations to all processes are necessary to use effectively)",
+    "description": "Comments:Overall, Close.io is a B2B CRM where each client has only a few main contacts and they all go through a specific, well-defined process, regardless of whether or not the deal is closed.It's a very expensive platform, especially if you want calling features, so keep that in mind. My two cents: you should assess how well Close.io meets your needs before deciding that this is the right CRM (vs. a different CRM or a custom CRM if you're at higher volumes). Once you decide that it's worth exploring, my recommendation is to figure out how much you'll be paying in annual costs vs. a custom CRM implementation. Close.io pretty much won't prioritize features for you, so if you need anything custom done, I recommend going somewhere else.",
+    "date": "8 years ago",
+    "rating": 4,
+    "pros": "- Easy to get started\n- Easy to import leads\n- Easy to keep track of how everyone at your organization is interacting with the client\n- Pretty simple, but effective reporting",
+    "cons": "- Expensive\n- Low quality call audio\n- Low customization\n- Rigid sales structure set-up"
+  },
+  {
+    "reviewerName": "JASON",
+    "title": "The future looks bright with Close.IO",
+    "description": "Comments:I have used Close.IO at my past company and this is the only CRM that I can endorse. When I told my team that I was going to update the current CRM tool I was met with a lot of questions and concerns. After showing the video on the Close.IO site and taking questions for about 20 mins my team was buying into the idea of changing over. I was also able to prove to them that there would be a minimum of an hour that each of them would save a day, so that peaked their interest. Then as we ramped up for the change the nervousness kicked in again, so I made sure to stage the rollout in an effort to handle all questions in a controlled manner and prepare for more users. The employees were blown away by the ease of use! And I was impressed at just how smooth it all went. Being a tech guy my learning curve is quick, but from employees in their 20's-50's we had a hugely successful transition into Close.IO.While my team is still early in the game, about 3 weeks into Close, we are seeing AMAZING results. One of my sales guys is up 50% in his personal sales! Others are up 10-20%. My entire team has said that they cannot wait to see what the future holds as we are continuing to find more ways to improve our process. Close.IO has convinced my team that it is the choice CRM tool.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "Automation and their inbox is a huge pro. \nTheir search feature is arguably the best anyone could ask for. We are still discovering search tricks. GREAT ROI!\nA great help page on the Close.IO site for finding suggestions and troubleshooting.",
+    "cons": "We did have a tough time with our firewall when first setting up Close.IO, so make sure to include your Network Admin in the conversation of switching to Close.IO early on in the process. \nSometimes getting someone on the phone can be a challenge, but email and scheduling a call have never been a problem."
+  },
+  {
+    "reviewerName": "Jayne",
+    "title": "It does the job - but not the best on the market by far",
+    "description": "Comments:If you do not heavily rely on a CRM system and just need a place to lightly store things to check on between departments without having to spend a lot of time training your users, then Close is a good call. However, if you need an in-depth CRM system that helps to manage a pipeline down to the details and has a very organized or detailed structure for viewing accounts, I think there are better options on the market.",
+    "date": "2 years ago",
+    "rating": 4,
+    "pros": "Very clean UX/UI and easy to use and navigate, everything is sort of \"on one page\" so you don't really need to scour around or click on weirdly/technical verbiage-marked buttons.",
+    "cons": "It's actually almost too simple to the point that it can begin to feel cluttered. You can too easily create multiple entries because of how the integrations are set up, so it's not always clear what the \"right\" profile is. Similarly, there's very little tracking of progression, it's quite rudimentary in that sense."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Highly Recommend It",
+    "description": "Comments:I can tell you that I have used over 20 different CRM systems over the past 10 years. We do a tone of cold calling and we need to just blaze through calls fast and I never could find CRM that allowed us to do this.  I was so frustrated that I needed up even creating our own CRM just to do this very thing.  I can’t tell you how much money I spent in development of our CRM to make a product that blazes through calls fast.  We used that for about a year or two then I stumbled on because our in-house custom CRM was having problems and we didn't have the resources to fix it so I figured I would try again.  I cannot tell you how incredibly excited I am about how amazing Stop logging calls and emails and start making them instead. truly is. This CRM is unlike any product on the market it is exactly what we wanted our in-house product to be and more.  It’s so awesome we scrapped our in house product and started exclusively using Stop logging calls and emails and start making them instead.. You do not truly have an appreciation for “next gen” this thing really is, there is literally nothing like it on the market and honestly I’m a bit shocked no one seems to get the amazing this thing is.  This is a pure sales communication tool that cuts out all the BS of a CRM and is a real actual tool that a sales person can use to increase their sales and not just some data collection thing that salespeople are forced to you.  If you actually give a go and start using it you’ll never want to use anything else if you do cold calling.  The thing seamlessly interfaces all your calls AND even all your emails!  You no longer need to be jumping in and out of outlook, you don’t need to check your outlook or Gmail calendar, and you don’t need to do anything except pull up the Stop logging calls and emails and start making them instead. and do the stuff in your inbox and make money.  It pulls in not only your tasks, and follow up meetings but it also syncs your emails and voicemail sand phone calls.  It takes every single bit of communication you do and puts it in one quick “to do list” automatically with ZERO data entry.  It’s blazing fast and it just works.   The voicemail drop thing is really dope, I can’t tell you how many times a day I find myself having to leave voice mails for people, they have this thing that you hit a button and it automatically leaves a voicemail so you can go to the next call, just amazing in terms of productivity.",
+    "date": "9 years ago",
+    "rating": 5,
+    "pros": "There are too many to list – If you do cold calls this is a no brainier, you need to buy it today!  It support The best apps. Better together. as well which means it hooks into hundreds of other marketing tools also.  Their support is second to none, these guys seems to be hustling hard with support, product development and just providing a kick ass experience for their customers. I recommend this product.",
+    "cons": "This thing is EXPENSIVE.. but the truth is you get what you pay for and you geta lot.  Your paying for the best and it has a price tag which clearly says it’s the best because it’s more than double the cost of other competitive products. The downside is though I have 3 team members and I’m paying close $300 to $400 a month for 3 people that’s crazy considering there are other products that do VoIp with Twillio for less than $10 a user. So I went from paying $50 a month for CRM and $80 for Twillio VoIP($180) to $300 a month.  So my prices doubled, which sucked however after using this product it is worth the extra price but if they raise the prices anymore that is just pushing because it really his priced rather high for the market it’s in.   Even the enterprise “SForce” CRMs are not as expensive as that (course those CRMssuck compared to this when it comes to cold calling).  The problem is I can’t easily scale with it.  So I’ll be stuck with a 3 users fora while where if they had it at a lower price point I would buy a license fore very one of my staff but since it’s so expensive I can’t justify it for anyone but my sales people.   I think they are missing out on revenue by not having license does not have the VoIP stuff for like $5 a user so my support team could use it without VoIP and be on par with other CRM price\n\npoints.  It’s clear though this is a nitch product for telephone sales teams.\n\nSO that being said if you do not do a lot of phone sales then this product is probably overkill for you and there are many others that are more of “client manager”type of product where this bad boy is a pure sales beast and nothing else.. It will help increase your sales without a doubt!  In terms of client management and being asingle point for all customer data it does the job but it does not really do that any better than other products out on the market for half its cost.  It’s really the phone cold calling stuff is what makes it so awesome so if any other CRM companies ever figure this out and try to clone/copy it they will have some real competition but so far there is nothing like it and I would buy all over again!  Also I really never write reviews either so the fact I’m even doing this speaks to much this thing rocks!"
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Best CRM for managing relationships",
+    "description": "Comments:Love how simple Close.IO is.  There's one list of contacts , and then an infinite ways of segmenting the data after that in powerful ways.  It's a very powerful concept, and they do it in a way that makes it super easy to manage lists of leads/clients/whatever, and to help make sure you're on top of it.  They do this, however, in my opinion, by sacrificing features available in other top CRMs, some that seem like they should just be there.  For us it has been worthwhile nonetheless.",
+    "date": "9 years ago",
+    "rating": 4,
+    "pros": "By far the easiest and most intuitive way to manage relationships that I've come across.  If it's a big struggle for you to have a bunch of lists of leads, and with your limited time you struggle to stay on top of each and every one of them, then Close.IO is awesome.  It has helped us make sure none fall through the cracks, and does that in a way where I don't have to think about it.  It just lets me know.  Integration through Zapier also brings it to another level of automating workflows.",
+    "cons": "It's missing some features that other CRMs have, especially for the price.  Although the 'smart views' (how you segment the contacts into different lists) is really really awesome and VERY powerful, there are some limitations that sound like should be there but are just missing (e.g. having different default columns per 'smart view', which sounds like a given to me since someone cares about different data depending on if the contact is a cold lead, qualified lead, or client).  Instead now I have a bunch of columns that some people within my company don't care about but are just confusing to them.\n\nAlso, you have to get the pro/business to get several features that I initially expected would be part of the main one, e.g. there's not a single report that can draw a graph to visually get at-a-glance info of any kind in the basic version.  They also don't post their roadmap openly, so I have no idea what features will be coming.\n\nSo in this respect it feels slightly like an incomplete product, but as mentioned, worth it for how incredibly well they execute the main function we need it for (effectively managing relationships/lists of contacts for both sales and client relationships)."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Not a CRM",
+    "description": "Comments:In the end it's very expensive for a bulk lead calling tool.",
+    "date": "6 years ago",
+    "rating": 5,
+    "pros": "This is a great tool if you are just bulk burning through new biz leads and have a fast sales cycle.  the calling through Close.io is great, call recording great, ability to create custom lists for lead calling also great",
+    "cons": "This is not a CRM period!  I would only recommend this if you were integrating it with a dedicated CRM system.  The notes are chaotic and very difficult to look back through history and find important past conversations.  There is no ability to do ANY form of contract management once a customer is closed and there is also no ability to attach anything to the opportunity info.  So if you have a relevant presentation or any documentation relevant to a potential sale you best save it in a google drive and make a custom field to stick the link in."
+  },
+  {
+    "reviewerName": "Varun",
+    "title": "The best CRM for the sales team to do the cold calling at an ease.",
+    "description": "",
+    "date": "6 years ago",
+    "rating": 4,
+    "pros": "We use pipedrive for email marketing and Close.io for cold calling. Our system works like this. Our marketing team use pipedrive to send out email to possible leads and follow up with them and when it results in a successful response from the prospect the sales team collects the phone numbers. Then these prospects with phone numbers have been downloaded to csv and transferred to Close.io CRM for sales team. Then they do all the cold calling with in Close.io CRM. Our department also have access to this CRM to make support calls later on. We can say our sales team's productivity has increased a lot after implementing this CRM. They do not need to manually do the sorting and recording of calls made and everything can be done in settings just one time.",
+    "cons": "When importing the prospects from a CSV if there are duplicates in the file, it doesn't detect that and gets added just like an other contact. There are no option to segment the contact in to different categories."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Great functionality. But you can lose access anytime",
+    "description": "Comments:This is a great platform. But I do not recommend it to anyone. If you are interested in good CRM then try PipeDrive. They don't have a few things, but their technical support will solve all your problems. They also do a lot of custom free stuff. And you can safely store 1M + contacts.",
+    "date": "6 years ago",
+    "rating": 1,
+    "pros": "Awesome UI\nBest filtration and search\nNothing extra\nNot overloaded\nVery fast",
+    "cons": "If your database more than 100K contacts, you will be disconnected, because you will ....\"impacted our infrastructure\"....  When you try to solve a problem and chat with technical support, you will be ignored.\n\nBut there is no public limitation. Try to use. Are you lucky? Maybe not and your work will be suspended immediately. And then you will long try to switch to another platform without any help from those support. Maximum you will have a day."
+  },
+  {
+    "reviewerName": "Chuck",
+    "title": "First thougths on new software",
+    "description": "Comments:I am just beginning to use it so this is an initial review.  So far I have found it simple to learn and effective in lead and customer management.",
+    "date": "2 years ago",
+    "rating": 5,
+    "pros": "Sequencing, calling from the software, activity tracking, call recording, relative simplicity to use",
+    "cons": "no comment yet, i am just beginning to use it"
+  },
+  {
+    "reviewerName": "Jim",
+    "title": "Best out there",
+    "description": "",
+    "date": "4 years ago",
+    "rating": 5,
+    "pros": "Love it for all businesses I have worked in.  I literally have my own Personal Close I use that I bring when I take a contract, so I don't have to use something else. It is part of my working life now  - Easy deployment (Even when Microsoft tries to ruin everything for you), Simple and easy, can opt into great features if you need it, export your leads, whatever it is - It is software that has clearly been made by someone who was in Business Development. The amount of time I save not having to manually document how much work I have done...Makes me more successful.",
+    "cons": "Nothing - it is great - A small deployment issue once, but that was 100% Microsofts fault. The reps were great at fixing it."
+  },
+  {
+    "reviewerName": "Linus",
+    "title": "Awesome product with a great search centric approach",
+    "description": "Comments:At Duma Works, a Kenya based recruitment startup, we use close.io to keep track of all of our customer relations, existing and potential. Apart from that we're also using it as a multi-tool for everything from fundraising to recruitment. The search centric approach makes it easy to create any type of customised list of leads and treat them differently based on their unique characteristics. The ability to add custom fields to all leads in combination with the bulk email feature makes it possible to easily send hundreds of personalised emails in seconds. I would recommend close.io to anyone who wants to maintain and grow a database of contacts, be it customers, candidates or investors.",
+    "date": "10 years ago",
+    "rating": 4,
+    "pros": "- Easy to create customised lead views and send personalised bulk emails\n- Stripped down feature set, only contains what's necessary\n- Extremely easy to get started, no advanced setup necessary\n- Great support and response time from the team at close.io",
+    "cons": "- I lack the ability to track meetings, it's the only part of the sales funnel that I can't follow up on\n- I lack the ability to mark notifications as unread"
+  },
+  {
+    "reviewerName": "Isaiah",
+    "title": "A modern and functional touch to CRM",
+    "description": "",
+    "date": "7 years ago",
+    "rating": 5,
+    "pros": "Coming from Salesforce and other CRM services, Close.io shines a much needed light for our sales team. They follow industry standards and have every feature that I've been used to having. I incredibly appreciate the ability to call and track phone calls directly from the app.",
+    "cons": "The desktop app is where it's all at, but I would appreciate a more fine-tuned web and mobile app considering what we pay and what other services offer."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Will you marry me?",
+    "description": "Comments:I LOVE this solution. It's extremely flexible which is crucial for our company of 80. With our HQ in Europe, and a sales team poised to expand rapidly worldwide, we needed the ability to \"speak\" to each other by having access to all leads in the system and their history. Right now we are piloting Close.io here in the U.S. with a couple of sales people also trying it in Europe. We integrated our incoming leads from our system into close.io via Zapier and all communication via Gmail. It was a snap! Also, the support team can CC or BCC close.io on crucial matters via the ticket system and sales can now see all important transactions in one place. Just in a few short months Sales productivity has changed dramatically, and basically, I'm a happier person, which is good for everyone!",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "Easy to use interface. Nice upgrade with the html in the email function! Integration with the phone is great!",
+    "cons": "Fix the Tasks function to be more user friendly. allow us the hide the custom fields so we don't need to scroll through them all when assigning data."
+  },
+  {
+    "reviewerName": "Ali",
+    "title": "Increases the chance of closing a deal",
+    "description": "Comments:My team and I began using Close.io to close deals via the calling & Email features they have implemented into the software. We imported our leads very easily, and managed to start closing deals with potential clients. Close.io is a unique product that allows you to manage multiple streams that increases the chance of closing a deal.",
+    "date": "10 years ago",
+    "rating": 5,
+    "pros": "Calling feature, Tracked emails, Work with multiple team members on closing deals. \nBiggest feature is the app you can download via the app store or from the close.io website, makes things super easy to manage. The Smart views and sorting filters are very useful in managing multiple leads.\n\nThe support team is incredible! I've never experienced such support with any other company.",
+    "cons": "Only issue I ran into is when grouping leads under a specific category which has to be done manually in the spreadsheets, but I spoke with the support team and gave me step by step to resolve this issue."
+  },
+  {
+    "reviewerName": "Jeffrey",
+    "title": "Great CRM",
+    "description": "Comments:Overall my experience with Close has been a positive one. Customer service is responsive.",
+    "date": "4 years ago",
+    "rating": 4,
+    "pros": "The pros are that is a pretty straight forward CRM to use. It integrates well with many other applications.",
+    "cons": "Overall, I cannot really think of any cons. It gets the job done as a reasonably priced CRM. It does not have as many features as salesforce but for the price its great."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Great CRM for smaller businesses",
+    "description": "",
+    "date": "7 years ago",
+    "rating": 5,
+    "pros": "I like the cost above all else. We used a more expensive CRM for a while and were thrilled to find out about Close.io and its low price in comparison. The platform is also a lot simpler to use than other popular CRMs like SalesForce and Dynamics.",
+    "cons": "There isn't much to dislike about the platform. There could be some additional features to make activities simpler but that's not really anything against the platform, in my opinion."
+  },
+  {
+    "reviewerName": "Verified Reviewer",
+    "title": "Best CRM EVER!",
+    "description": "Comments:Close.io has been great from the start. Getting setup was easy and migrating our data from our previous CRM was simple. We are now able to monitor all outreach metrics in real time and close more deals with close.io",
+    "date": "6 years ago",
+    "rating": 5,
+    "pros": "Close.io is every sales teams dream! Its super simple but extremely powerful! It has everything you need to effectively close deals daily and keeps you on track with very little effort.",
+    "cons": "I wish there was a two record type Leads and Accounts. There is a work around but my personal preference is a clear distinction between leads and accounts."
+  }
+]
