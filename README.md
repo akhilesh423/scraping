@@ -36,8 +36,11 @@ const config: ScraperConfig = {
 };
 ```
 2. Paste G2 Browser Cookie:
+
+``````json
 403 Forbidden error when scraping data from the G2 website you need to mimic the browser's request headers and parameters closely, including copying the exact Cookie value from your browser when accessing the G2 site. This approach makes the server think the requests are coming from a legitimate browser session.
 
+```
 3. Run the script:
 ```bash
 npm start
