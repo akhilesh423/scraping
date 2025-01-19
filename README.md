@@ -13,6 +13,9 @@ This project is a web scraper that extracts reviews for a specified company from
 ## Installation
 
 1. Clone the repository.
+```bash 
+ git clone "https://github.com/akhilesh423/scraping.git"
+ ```
 2. Install the dependencies:
    ```bash
    npm install
