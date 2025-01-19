@@ -72,8 +72,9 @@ async function fetchHTML(url: string, config: ScraperConfig): Promise<string> {
                 'sec-fetch-dest': 'empty', 
                 'sec-fetch-mode': 'cors', 
                 'user-agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36', 
-                'Cookie': '__cf_bm=63OMqcB.rAN7LK2g1APlIzyUqXDjHpEMfp3dpI6r7Jk-1737292907-1.0.1.1-tzDmLFy4H42kLS8Xj804rolBoQlqks9NAQY57DSw31JE.lu2l4r0ZazejBszQ4B82Q4zNm2vRjx8DznI0o4Obg; _g2_session_id=222a1a0480e2ac2103bde75dd78a978d; datadome=UFIA_RyfyxkVvfKVJJiEh6XrrgUb~T66AiAIcM7~irtrL9LyRtNs7egJ5TaPRgeiyk9jaJJ5Oc0OKpGKlfvzUYNrTSYCVI~WpaxBzrmF~qpUokNZFBg95NxeyBG6UFz6; AWSALB=cQw+t9GYv2DtW0615uutuQX/A5KYt0jjFIzpqCnXheu20EZR0PdYc8EiwOmiNng6fFzde3IqQCUbDw2UuBJCUeQXrJdCfYOmG/QJ/Dqsxe7MbElpHFhVTCHUbnWw; AWSALBCORS=cQw+t9GYv2DtW0615uutuQX/A5KYt0jjFIzpqCnXheu20EZR0PdYc8EiwOmiNng6fFzde3IqQCUbDw2UuBJCUeQXrJdCfYOmG/QJ/Dqsxe7MbElpHFhVTCHUbnWw; amplitude_session=1737292024390; events_distinct_id=10c2bd8d-1741-452c-96b8-b305ad2262c8'
+                'Cookie': '' // go the g2 website copy the cookie and paste here. 
               }
+              
         });
         return response.data;
     } catch (error) {
@@ -100,7 +101,7 @@ async function scrapeReviews(config: ScraperConfig): Promise<any> {
 
 async function main() {
     const config: ScraperConfig = {
-        companyName: 'paypal',
+        companyName: 'close',    // add the company name here.
         startDate: new Date('2023-01-01'),
         endDate: new Date('2025-12-31'),
         source: 'G2'

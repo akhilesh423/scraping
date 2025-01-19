@@ -35,13 +35,15 @@ const config: ScraperConfig = {
     source: 'G2'
 };
 ```
+2. Paste G2 Browser Cookie:
+403 Forbidden error when scraping data from the G2 website you need to mimic the browser's request headers and parameters closely, including copying the exact Cookie value from your browser when accessing the G2 site. This approach makes the server think the requests are coming from a legitimate browser session.
 
-2. Run the script:
+3. Run the script:
 ```bash
 npm start
 ```
 
-3. The scraped reviews will be saved in the `reviews` folder as a JSON file named after the company.
+4. The scraped reviews will be saved in the `reviews` folder as a JSON file named after the company.
 
 ---
 
